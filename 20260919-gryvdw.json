@@ -1,0 +1,3022 @@
+{
+  "owner": "王季杰",
+  "updated": "2026-09-19 02:32:47",
+  "version": "1.0",
+  "timezone": "Asia/Shanghai",
+  "jobs": [
+    {
+      "name": "扩大开放功能持续提升 2026年服贸会深化国际合作",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/556376.shtml </code>",
+      "batch": 224,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "古香有新职 吉林传统香艺职业化传承启程",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/607743.shtml </code>",
+      "batch": 136,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "常润股份：截至9月11日公司累计回购股份591020股",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/874679.shtml </code>",
+      "batch": 197,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "广西大化：黑山羊养殖富农家",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/835955.shtml </code>",
+      "batch": 240,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "警惕肝病年轻化！这五个习惯最伤肝",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/393443.shtml </code>",
+      "batch": 417,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "环球一周展望：加息潮在G7蔓延 市场聚焦美联储主席沃什",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/559092.shtml </code>",
+      "batch": 107,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "年内最便宜新股，来了！",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/300169.shtml </code>",
+      "batch": 97,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "周末影响市场重要资讯回顾：证监会发布《期货公司监督管理办法》，事关万亿赛道！我国词元需求呈爆发式增长",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/160720.shtml </code>",
+      "batch": 161,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "5000人晋阳湖畔开跑 2026太马欢乐趣跑举行",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/269907.shtml </code>",
+      "batch": 364,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "创新推出机器人太极展演 2026年全民太极大会启幕",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/269605.shtml </code>",
+      "batch": 348,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "政企携手，互惠共赢 北京市昌平区政府与中国太保产险达成战略合作",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/967696.shtml </code>",
+      "batch": 407,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "京雄快线开启全线贯通试运行",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/643115.shtml </code>",
+      "batch": 182,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "（长征胜利90周年）检查公益诉讼守护绿色生态与红色根脉 四川宝兴探索特色保护路径",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/110179.shtml </code>",
+      "batch": 240,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "印度在市场强烈反对后拟全面改革股票收盘竞价机制",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/346993.shtml </code>",
+      "batch": 409,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/804095.shtml </code>",
+      "batch": 415,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "嘉兴平湖办浙台棒垒球交流 选手大半是台青",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/521428.shtml </code>",
+      "batch": 359,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "新大众文艺，如何走进“猜你喜欢”",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/632567.shtml </code>",
+      "batch": 50,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "陕西：300余名骑手巡游嵯峨山 机车音乐嘉年华促农文旅深度融合",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/595796.shtml </code>",
+      "batch": 58,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "深圳国际：完成发行2026年中期票据(第四期)",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/611006.shtml </code>",
+      "batch": 201,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "“不求毫无生气的一致，但求活生生的团结”，泰戈尔曾三次访华，对当下有何启示？",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/413679.shtml </code>",
+      "batch": 473,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "安全性能位居全球第一梯队！华龙一号2.0版创新成果亮相",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/160064.shtml </code>",
+      "batch": 270,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "五粮液1618逆势独涨 习酒君品、普五八代、国窖1573重跌",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/334514.shtml </code>",
+      "batch": 481,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "Anthropic联合创始人兼首席执行官：必须放慢提升AI模型能力的速度",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/849295.shtml </code>",
+      "batch": 488,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/622539.shtml </code>",
+      "batch": 57,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "印尼布罗莫火山景区因山火全面关闭 中领馆发布提醒",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/435556.shtml </code>",
+      "batch": 186,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "莫桑比克商界：外汇短缺和燃油危机制约营商环境",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/499208.shtml </code>",
+      "batch": 388,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "（经济观察）平陆运河通航有望助力海南自贸港与东盟经贸往来",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/264040.shtml </code>",
+      "batch": 169,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "近闻·习主席这样阐释金砖合作应有之义",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/824524.shtml </code>",
+      "batch": 283,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "陈文辉：应推动人身险商业模式由“资金型”向“保障型、服务型”转变",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/552527.shtml </code>",
+      "batch": 378,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "美联储9月加息概率超88%",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/235169.shtml </code>",
+      "batch": 216,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "WTT澳门冠军赛：中国队三人晋级单打八强",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/503445.shtml </code>",
+      "batch": 410,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "提高资本市场制度包容性 吸引优质企业扎根A股",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/164409.shtml </code>",
+      "batch": 418,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "万亿天弘基金的困局：增收不增利，管理费一半靠余额宝",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/069315.shtml </code>",
+      "batch": 207,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/763445.shtml </code>",
+      "batch": 298,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "沙特阿拉伯输油管道系统周四遭袭击",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/396843.shtml </code>",
+      "batch": 381,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "乙酰丙酮铝商品报价动态（2026-09-13）",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/420691.shtml </code>",
+      "batch": 111,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "美以伊局势：特朗普指认伊朗或主导空袭沙特油管 伊朗南部传出爆炸声，伊曾试图用弹道导弹袭击美军军舰",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/876635.shtml </code>",
+      "batch": 71,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "浙商证券：在AI驱动算力设备升级的趋势下，高端PCB需求有望维持高速增长",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/966393.shtml </code>",
+      "batch": 273,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "反渗透絮凝剂商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/499527.shtml </code>",
+      "batch": 56,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "埃里森取消出售至多5000万股甲骨文股票的计划后 在加密平台交易的甲骨文股票合约上涨2%",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/979990.shtml </code>",
+      "batch": 435,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "一波未平一波又起，星宇股份实在是“错得离谱”",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/614677.shtml </code>",
+      "batch": 141,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "“跨越山海的味道——万里茶道与咖啡之路”巡展登陆圣保罗",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/653039.shtml </code>",
+      "batch": 209,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "IPO或被人为操纵，拨康视云暂停交易",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/916587.shtml </code>",
+      "batch": 300,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/847480.shtml </code>",
+      "batch": 230,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "大学生活费怎么给？谈“钱”之前，先谈“生活”",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/687596.shtml </code>",
+      "batch": 244,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "香港三大发钞行估值升至五年高位 年内涨幅均超30%",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/859221.shtml </code>",
+      "batch": 297,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "香港潮属社团总会举办“2026出花园成人礼仪式”",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/722690.shtml </code>",
+      "batch": 243,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "光通信产业现状：1.6T光模块加速上量 全产业链企业“跑步入场”",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/708906.shtml </code>",
+      "batch": 474,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中信建投：军工板块盈利加速修复 静候“十五五”规模化订单下达",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/415304.shtml </code>",
+      "batch": 471,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "星宇股份再爆第三雷：产业园九成员工是临时工",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/300944.shtml </code>",
+      "batch": 155,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "智能网联新能源汽车产业发展“十五五”规划定下目标 自动驾驶车辆的安全性能大幅超过人类驾驶员",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/325741.shtml </code>",
+      "batch": 369,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "菲律宾客船起火事故死亡人数升至76人",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/196955.shtml </code>",
+      "batch": 339,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "三菱日联预计美联储本月加息25基点 10月将按兵不动",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/777430.shtml </code>",
+      "batch": 498,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "哔哩哔哩-W获UBS Group AG增持约759.24万股 每股作价约116.51港元",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/275227.shtml </code>",
+      "batch": 392,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "沙特东西输油管道在遭多次袭击后被预防性关闭",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/130347.shtml </code>",
+      "batch": 455,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "浦江创新论坛首个非洲主宾国南非冀多领域技术合作",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/697648.shtml </code>",
+      "batch": 412,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/036223.shtml </code>",
+      "batch": 276,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "FCC靴子落地，光模块最大风险解除？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/141091.shtml </code>",
+      "batch": 496,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中信证券：航运周期范式重塑 关注快递旺季价格",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/819451.shtml </code>",
+      "batch": 334,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "“抱着金饭碗要饭”？485年中药老字号广誉远，被投资者当面质问！公司股价已连跌5年，市值蒸发100亿元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/314451.shtml </code>",
+      "batch": 131,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "宁夏泾源：书香不打烊 农家书屋陪伴少年课余时光",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/742367.shtml </code>",
+      "batch": 117,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "国家自然科学基金长三角基础研究联合基金重大专项启动",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/655107.shtml </code>",
+      "batch": 301,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "韩国延长交易时长，测试全球投资者的参与意愿",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/007053.shtml </code>",
+      "batch": 295,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中信证券：静待加息落地 配置上建议维持AI+能化的结构",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/651515.shtml </code>",
+      "batch": 357,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "2026浦江创新论坛文化科技融合专题论坛举行 探讨文化科技“双向奔赴”",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/289727.shtml </code>",
+      "batch": 465,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "英伟达被曝拟出资100亿美元参与Anthropic首次公开募股",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/578632.shtml </code>",
+      "batch": 327,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/338556.shtml </code>",
+      "batch": 454,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "俄称扎波罗热核电站燃料运输车队遭乌袭击致2人死亡",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/986596.shtml </code>",
+      "batch": 289,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "创新药跌跌不休，什么原因？华宝基金港股通创新药ETF（520880）失守所有均线",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/995102.shtml </code>",
+      "batch": 392,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "高盛调整美联储政策预期：从此前预测按兵不动转为预计9月加息",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/134607.shtml </code>",
+      "batch": 411,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "霍元甲孙女归国寻根 冀精武精神走向全球",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/395266.shtml </code>",
+      "batch": 444,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "首个“太空算力关键技术与场景验证实验室”正式成立",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/234454.shtml </code>",
+      "batch": 295,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "青海省公布24年生态数据：生态系统服务价值超3.2万亿",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/393171.shtml </code>",
+      "batch": 103,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "重庆一商圈“银河”彩灯吸引游客打卡",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/288996.shtml </code>",
+      "batch": 123,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "拾光纪·“植”此青绿！习近平等金砖国家领导人共同植树",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/861006.shtml </code>",
+      "batch": 292,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "经济日报金观平：扶持人工智能须告别粗放式比拼",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/756574.shtml </code>",
+      "batch": 324,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "胡塞武装控制曼德海峡全球能源风险持续上升",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/514796.shtml </code>",
+      "batch": 324,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "警惕“躺赚”陷阱！征信良好的普通人为何沦为“职业背债人”",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/159282.shtml </code>",
+      "batch": 362,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "Anthropic上市料造就大批百万富翁 华尔街大行争抢财富管理生意",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/906022.shtml </code>",
+      "batch": 470,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "小米高管称部分门店高峰时段客流量暴涨400%",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/227445.shtml </code>",
+      "batch": 380,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "习近平：中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/368105.shtml </code>",
+      "batch": 76,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "据报道 沙特阿拉伯输油管道周四遭袭击",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/808950.shtml </code>",
+      "batch": 102,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "东鹏饮料获董事长林木勤三日增持5.79万股 耗资约594.03万港元",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/147052.shtml </code>",
+      "batch": 423,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "专家解读全球首座翼龙博物馆：打造世界级翼龙研究与科普中心",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/806110.shtml </code>",
+      "batch": 487,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "沙特能源部表示 利雅得和麦地那地区的东西输油管道在周四遭数次袭击后已被暂时关闭",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/510288.shtml </code>",
+      "batch": 96,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "标普大幅调整美元评级 可能将债券评级展望下调至负面",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/008093.shtml </code>",
+      "batch": 114,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "第三届粤港澳大湾区博士博士后创新创业大赛复赛在穗举行",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/611315.shtml </code>",
+      "batch": 309,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "新一轮找矿突破战略行动成效显著 我国14种矿产储量居世界第一位",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/709856.shtml </code>",
+      "batch": 311,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/854352.shtml </code>",
+      "batch": 499,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "东西问丨“大金砖”力量，力从何来，力道几何？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/139759.shtml </code>",
+      "batch": 457,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "胡塞武装称除沙特外其余国家船只红海航行安全",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/172858.shtml </code>",
+      "batch": 299,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "奥尔特曼：OpenAI年内不会IPO 公司将优先关注AI安全",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/864838.shtml </code>",
+      "batch": 329,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "聚焦产业对接 赣台深耕电子信息装备制造融合",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/541933.shtml </code>",
+      "batch": 413,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "第一届“中文带你看印尼—本土华人文化讲解大赛”决赛在泗水举行",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/575533.shtml </code>",
+      "batch": 182,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/430980.shtml </code>",
+      "batch": 231,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "2026乌鲁木齐马拉松鸣枪开跑",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/163184.shtml </code>",
+      "batch": 456,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "秦淮河上挥桨逐浪 海内外高校赛艇健儿南京竞速",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/324162.shtml </code>",
+      "batch": 282,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "液体尿素商品报价动态（2026-09-12）",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/782650.shtml </code>",
+      "batch": 53,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "从贸易通道到民生市场 金砖合作在南非落地见效",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/364771.shtml </code>",
+      "batch": 75,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "普京：欧洲在乌克兰部署军队意味着“与俄罗斯开战”",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/862006.shtml </code>",
+      "batch": 74,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "四川成都：民众沉浸式体验天文艺术展",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/057511.shtml </code>",
+      "batch": 352,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "具身智能融资不撒胡椒面了！两月超20亿 钱都往家庭机器人跑",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/813875.shtml </code>",
+      "batch": 424,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "案值巨大 美中情局前官员达成临时认罪协议",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/458334.shtml </code>",
+      "batch": 165,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "夜盘期货收盘",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/167772.shtml </code>",
+      "batch": 90,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "布局传奇IP源头，恺英网络拟间接参股娱美德打通版权端协同",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/420646.shtml </code>",
+      "batch": 257,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "印尼客轮失联事故已致6死 仍有上百人失踪",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/359127.shtml </code>",
+      "batch": 198,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "古法杉木闸板显奇效 福建诏安大水门“土办法”挡洪护城",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/424776.shtml </code>",
+      "batch": 439,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "韩总统李在明：汽油、柴油等精炼油价格将持续稳定",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/781187.shtml </code>",
+      "batch": 254,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "涉足控制器芯片！605303，筹划重大资产重组",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/504299.shtml </code>",
+      "batch": 473,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "北陆药业：公司将于2026年9月14日召开2026年第二次临时股东会",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/855430.shtml </code>",
+      "batch": 217,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "美国农业部表示 9月美国2026/2027年度大豆产量预期为45.35亿蒲式耳",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/514927.shtml </code>",
+      "batch": 497,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "硼砂(十水)商品报价动态（2026-09-12）",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/784848.shtml </code>",
+      "batch": 246,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "花旗：青岛啤酒股份目标价下调至68.55港元 维持“买入”评级",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/571862.shtml </code>",
+      "batch": 282,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "奥佳华：汽车智能座舱按摩舒适系统研发项目已进入专利申请、样机测试、车型适配阶段",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/376808.shtml </code>",
+      "batch": 267,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中国超级稻三十年暨种业高质量发展大会在沈阳举办",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/969288.shtml </code>",
+      "batch": 183,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/191568.shtml </code>",
+      "batch": 144,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "第二十四届中国国际肉类工业展览会在山东青岛启幕",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/595590.shtml </code>",
+      "batch": 318,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "成都宠博会上演宠物T台秀",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/501439.shtml </code>",
+      "batch": 431,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "聚焦智能科创新能源 台湾青年参访团在渝深入考察交流",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/176096.shtml </code>",
+      "batch": 319,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "广西平南三桥入选中国土木工程詹天佑奖",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/698287.shtml </code>",
+      "batch": 51,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "江化微：与上海化工研究院签署战略合作框架协议",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/449803.shtml </code>",
+      "batch": 275,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "雄安国际算力一体化调度中心启动运行",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/782731.shtml </code>",
+      "batch": 107,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "180亿美元涌入！世界黄金协会最新报告",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/953685.shtml </code>",
+      "batch": 327,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "天安新材：公司将于9月21日召开2026年半年度业绩说明会",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/106947.shtml </code>",
+      "batch": 408,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "白凡士林商品报价动态（2026-09-12）",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/899532.shtml </code>",
+      "batch": 303,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "两只PCB概念股公告澄清涉英伟达传闻|盘后公告集锦",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/596267.shtml </code>",
+      "batch": 222,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/369452.shtml </code>",
+      "batch": 66,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "（经济观察）中国金融业界稳步推进跨境服务",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/264463.shtml </code>",
+      "batch": 137,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "甲骨文重组计划成本上限增至28亿美元 将进一步推进AI应用",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/963103.shtml </code>",
+      "batch": 97,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "中国算力基础设施与人工智能服务能力加快走向东盟",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/991169.shtml </code>",
+      "batch": 396,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "胡塞武装称沙特对也门发动129次空袭",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/756774.shtml </code>",
+      "batch": 111,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "独家专访野村苏博文：若AI热潮降温 全球资产会迈向何方？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/250931.shtml </code>",
+      "batch": 218,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/436314.shtml </code>",
+      "batch": 269,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "纳指科技ETF景顺：9月14日开市起至当日10:30停牌",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/529008.shtml </code>",
+      "batch": 240,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "花550亿元挖条河？解读上海史上最大单体水利工程",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/301101.shtml </code>",
+      "batch": 477,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "“赖传珠革命生涯研究中心”在华东交通大学成立",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/343641.shtml </code>",
+      "batch": 66,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2500余名跑者齐聚广州帽峰山 开启秋光之约",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/110720.shtml </code>",
+      "batch": 238,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "习近平宣布中国将于明年接任金砖主席国",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/160869.shtml </code>",
+      "batch": 165,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "沈鼓集团：首次公开发行股票并在主板上市",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/768383.shtml </code>",
+      "batch": 408,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "从“门票经济”到“产业经济” 湖南新化千年梯田“上新”引客来",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/733606.shtml </code>",
+      "batch": 183,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "第四届绿色牧场公众开放日举行 聚焦绿色种养循环创新发展",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/006299.shtml </code>",
+      "batch": 355,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "北京立法促进民族团结进步 以首善标准建设示范城市",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/050976.shtml </code>",
+      "batch": 217,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "报告：中国位列全球太空基础设施评估第二",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/049569.shtml </code>",
+      "batch": 305,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "周六你需要知道的隔夜全球要闻：交易员预计下周美联储加息概率约为90%；伊朗称14日将在阿曼讨论霍尔木兹海峡商运航线；国际原油下跌",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/262331.shtml </code>",
+      "batch": 282,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "伊朗说美侵略持续影响海峡航运安全",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/022928.shtml </code>",
+      "batch": 321,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "法国一载客列车脱轨已致44人受伤",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/601263.shtml </code>",
+      "batch": 407,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "美国2026财年前11个月预算赤字达到1.97万亿美元",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/680677.shtml </code>",
+      "batch": 230,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "携手推动“大金砖合作”高质量发展",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/667273.shtml </code>",
+      "batch": 111,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "北京6G空天地一体实验室正式发布",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/602096.shtml </code>",
+      "batch": 462,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "广州集中销毁7吨假冒伪劣商品",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/733966.shtml </code>",
+      "batch": 361,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "要让文化自己“说话” 滁州琅琊山焕发新活力",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/768911.shtml </code>",
+      "batch": 209,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "AI拉动覆铜板需求 上市公司加速高端产能布局",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/192399.shtml </code>",
+      "batch": 475,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "美国政府本财年前11个月财政赤字达1.97万亿美元",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/136470.shtml </code>",
+      "batch": 286,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "杂技剧《美好生活》在北京上演",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/369340.shtml </code>",
+      "batch": 352,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "编造、传播“税率调整”虚假信息，四人被证监会处罚",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/753313.shtml </code>",
+      "batch": 159,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/320606.shtml </code>",
+      "batch": 331,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "从6岁到67岁，锡林河畔四代棋手同场对弈喜塔尔",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/091953.shtml </code>",
+      "batch": 347,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/674081.shtml </code>",
+      "batch": 122,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/670408.shtml </code>",
+      "batch": 288,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中信证券：静待加息落地，加息风险释放应被视作买点，配置AI+能化",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/893373.shtml </code>",
+      "batch": 253,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "第26届四川中秋食品博览会在成都启幕",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/124546.shtml </code>",
+      "batch": 358,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "小摩：汇丰控股维持“增持”评级 目标价205港元",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/605131.shtml </code>",
+      "batch": 58,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "伊拉克调查袭击沙特事件并解职相关指挥官",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/382079.shtml </code>",
+      "batch": 385,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "国内外专家学者齐聚广州 共话羽毛球足球运动科学",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/497539.shtml </code>",
+      "batch": 371,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "重庆渝富控股集团原董事长谢文辉被查，曾掌舵这家万亿级农商行",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/567257.shtml </code>",
+      "batch": 429,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "银轮股份：为多家子公司提供融资担保",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/079418.shtml </code>",
+      "batch": 468,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "内地餐饮企业在港竞争激烈 2026年市场持续洗牌 海底捞、凑凑折戟 巴奴前扑后继",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/021982.shtml </code>",
+      "batch": 134,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "焦炭商品报价动态（2026-09-13）",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/926169.shtml </code>",
+      "batch": 472,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "建设提速 宁盐高速高邮湖特大桥实现全桥贯通",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/786746.shtml </code>",
+      "batch": 145,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "小米澎程系列正式开启全国交付 首站落地徐州",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/517734.shtml </code>",
+      "batch": 435,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "15.83亿元！全国首单 获批",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/332770.shtml </code>",
+      "batch": 279,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "欧洲央行官员：若油价持续站上100美元，将继续加息",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/225339.shtml </code>",
+      "batch": 167,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉被查",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/645531.shtml </code>",
+      "batch": 51,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "夜空寄思念 香港上演无人机秀纪念张国荣诞辰70年",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/597898.shtml </code>",
+      "batch": 189,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/581463.shtml </code>",
+      "batch": 384,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "甬舟铁路全线桥梁主塔完成封顶",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/579303.shtml </code>",
+      "batch": 231,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/223456.shtml </code>",
+      "batch": 435,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "厘清车企账期不妨多些刚性约束",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/511814.shtml </code>",
+      "batch": 266,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位”",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/995092.shtml </code>",
+      "batch": 223,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "特朗普重申伊朗战事将在中期选举后结束",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/061758.shtml </code>",
+      "batch": 308,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "肇庆搭建“认知健康防护网” 为老年认知障碍防治提供数字化支撑",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/563421.shtml </code>",
+      "batch": 463,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "习近平将出席金砖国家领导人迎接仪式",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/732529.shtml </code>",
+      "batch": 119,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "上海概念验证平台联盟成立",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/371693.shtml </code>",
+      "batch": 371,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "伊朗一商船在南部格什姆岛遭袭致1死3伤",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/592059.shtml </code>",
+      "batch": 280,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "博茨瓦纳矿业与能源部长：中博矿业合作要从“挖矿”走向产业增值",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/247477.shtml </code>",
+      "batch": 293,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "东西问丨学者对谈：中拉如何共同编织科技与人权合作图景？",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/063194.shtml </code>",
+      "batch": 61,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "福龙马与华为签署环卫机器人领域具身智能战略合作协议",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/422756.shtml </code>",
+      "batch": 83,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中国贸促会副会长李兴乾率团访问俄罗斯",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/328178.shtml </code>",
+      "batch": 125,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "“东北超”半决赛（首回合）：沈阳队胜长春队",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/961389.shtml </code>",
+      "batch": 427,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "视频|广发证券深圳分公司被深圳证监局出具警示函",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/712088.shtml </code>",
+      "batch": 281,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "陈发树，拟减持301050",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/364668.shtml </code>",
+      "batch": 107,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "“第二届天山对话：科技赋能 产业向新”活动在乌鲁木齐举行",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/308802.shtml </code>",
+      "batch": 395,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2026年福建省闽台青年电影人才培养“融合计划”发布",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/940957.shtml </code>",
+      "batch": 427,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "未来产业呼啸而来 基础研究“是快是慢”？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/859372.shtml </code>",
+      "batch": 443,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中超联赛：武汉三镇主场平河南俱乐部彩陶坊",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/163734.shtml </code>",
+      "batch": 174,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/870539.shtml </code>",
+      "batch": 196,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "埃里森取消出售至多5000万股甲骨文股票的计划",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/987537.shtml </code>",
+      "batch": 434,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "2026跨国公司江苏行—盐城零碳产业园国际合作交流会举行",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/393215.shtml </code>",
+      "batch": 254,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "第一观察｜习近平主席倡导金砖国家共担时代责任",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/989768.shtml </code>",
+      "batch": 276,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "工程院院士邬江兴：VLEO超低轨是地球空间最后战略新资源层",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/723910.shtml </code>",
+      "batch": 194,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "Datafolha民调：若巴西总统选举进入决选 卢拉支持率46% 博索纳罗44%",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/762590.shtml </code>",
+      "batch": 248,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中塑股份中签号出炉 共9156个",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/906298.shtml </code>",
+      "batch": 337,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "《欢迎来龙餐馆》海外热映 高校教师“英文译制”中国故事",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/086593.shtml </code>",
+      "batch": 325,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "CCL龙头公司金安国纪澄清：未与英伟达、华为接触",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/878551.shtml </code>",
+      "batch": 240,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "二乙烯三胺五乙酸五钠商品报价动态（2026-09-12）",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/967407.shtml </code>",
+      "batch": 255,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "霹雳舞3V3混合团体世锦赛首金成都诞生 中国选手包揽冠亚军",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/362629.shtml </code>",
+      "batch": 393,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "华夏基金：华夏创业板算力基础设施ETF9月17日起开放日常申赎业务",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/903254.shtml </code>",
+      "batch": 398,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "印尼失联客轮已有约110人获救",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/320041.shtml </code>",
+      "batch": 143,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "西藏隆子：“云端诊室”24小时在线 援藏医者守护高原健康",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/699351.shtml </code>",
+      "batch": 155,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "半年融资超去年1.7倍 AI有没有泡沫？投资人：5年后超90%资本投向AI",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/319780.shtml </code>",
+      "batch": 463,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "美国8月CPI同比上涨3.4%",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/374970.shtml </code>",
+      "batch": 213,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "延安红色半程马拉松中秋小长假开跑 红色文创及景区惠民政策发布",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/503530.shtml </code>",
+      "batch": 314,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "海南万宁启动防汛防风Ⅰ级应急响应 全市实行“五停一关”",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/816778.shtml </code>",
+      "batch": 368,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "“央行超级周”来袭！美联储、英国和日本央行谁会先加息？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/874385.shtml </code>",
+      "batch": 77,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2026中国—上海合作组织冰雪体育示范区青年拳击赛开赛",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/562294.shtml </code>",
+      "batch": 254,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "美军称对伊海上封锁已使99艘商船改变航向",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/178629.shtml </code>",
+      "batch": 218,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "拉里·埃里森取消最高75亿美元甲骨文股票出售计划",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/735767.shtml </code>",
+      "batch": 294,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "为构建人类命运共同体贡献“大金砖”力量",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/638124.shtml </code>",
+      "batch": 440,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "深度除氟剂商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/788400.shtml </code>",
+      "batch": 129,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "8月超八成私募机构资产管理实现正收益",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/941190.shtml </code>",
+      "batch": 440,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "Mecka AI 即将完成由红杉领投的一轮融资 估值约5亿美元",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/960651.shtml </code>",
+      "batch": 359,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中国移动总经理陈扬帆：适度超前建强算力基础设施 AIDC总签约规模超7GW",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/191463.shtml </code>",
+      "batch": 56,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中央财经大学绿色金融国际研究院2026年会举办",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/068327.shtml </code>",
+      "batch": 283,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "算电协同热度攀升 产业融合面临多重考验",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/448913.shtml </code>",
+      "batch": 370,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "沪指失守3900点！券商A股秋季策略现分歧：布局“金秋行情”，还是防守为王？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/796922.shtml </code>",
+      "batch": 313,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "阿斯利康美股盘后下跌2%",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/132304.shtml </code>",
+      "batch": 403,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "高盛：新鸿基地产目标价下调至169港元 重申“买入”评级",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/145458.shtml </code>",
+      "batch": 100,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "循环水阻垢剂商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/841150.shtml </code>",
+      "batch": 215,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "厦门大学政治学科创建百年：聚力构建中国政治学自主知识体系",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/375467.shtml </code>",
+      "batch": 244,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "“玉润山海·闽疆同行”玛纳斯碧玉产业推介活动在湄洲岛举行",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/136871.shtml </code>",
+      "batch": 352,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "高盛与美银竞相争夺管理Anthropic员工因IPO获益的巨额财富",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/689151.shtml </code>",
+      "batch": 351,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "国家安全部党委书记、部长陈一新在《中国网信》杂志发表署名文章",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/013301.shtml </code>",
+      "batch": 76,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/781668.shtml </code>",
+      "batch": 257,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "香港警察跆拳道会成立50周年 粤港澳选手在港竞技",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/299598.shtml </code>",
+      "batch": 488,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "从单机突围到集群拓局 上合示范区小农机耕拓印度大市场",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/048644.shtml </code>",
+      "batch": 103,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/980462.shtml </code>",
+      "batch": 140,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "让宁德时代躺枪的裸奔事件，是4000亿“青山系”的劳资纠纷",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/204911.shtml </code>",
+      "batch": 336,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "从历史中看见共同体，而不是对立",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/279386.shtml </code>",
+      "batch": 416,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "南非向博茨瓦纳捐赠20头黑犀牛 助力种群拓展栖息地",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/560578.shtml </code>",
+      "batch": 249,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "第五届中国（澳门）国际高品质消费博览会举行开馆仪式",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/932498.shtml </code>",
+      "batch": 436,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "美众议院议长约翰逊表示 特朗普提出的5000美元支票计划不会增加政府债务",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/760151.shtml </code>",
+      "batch": 57,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "两岸旅游业界代表江西庐山共商赣台文旅合作新机遇",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/354712.shtml </code>",
+      "batch": 88,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "于东来公布胖东来招工新准则：新员工均为学员性质 合同四年不续签",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/443349.shtml </code>",
+      "batch": 375,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中东局势，突传大消息",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/548252.shtml </code>",
+      "batch": 193,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "两岸资深电影人热议闽南语电影创作",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/236467.shtml </code>",
+      "batch": 416,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中老“和平列车-2026”联合演习展开全流程演练",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/166391.shtml </code>",
+      "batch": 402,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "AI赋能新赛道 激活产业新动能",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/291748.shtml </code>",
+      "batch": 313,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "习言道｜金砖国家集聚“大富矿”、“大工厂”、“大市场”",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/897113.shtml </code>",
+      "batch": 338,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/461465.shtml </code>",
+      "batch": 480,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/544362.shtml </code>",
+      "batch": 419,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "连续四天 央行隔夜逆回购如何精准“疏堵”？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/665126.shtml </code>",
+      "batch": 334,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/424850.shtml </code>",
+      "batch": 73,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "云南文山：各族民众“下山”启新程 同心共筑新家园",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/769026.shtml </code>",
+      "batch": 149,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "每10分钟下线1台 柳州优必选万台级工业人形机器人超级智慧工厂投产",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/419351.shtml </code>",
+      "batch": 308,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "久易股份IPO状态变更为终止",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/858491.shtml </code>",
+      "batch": 228,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "胡塞武装接连拿下政府军战略要地 已控制也门整个西部海岸",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/609208.shtml </code>",
+      "batch": 481,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下 OpenAI和Anthropic不敢停 “AI对齐”之父：超级智能可能在2027年出现 当下是监管黄金窗口",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/850723.shtml </code>",
+      "batch": 66,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "河南公布首批2026年治理制售假劣肉制品问题典型案例",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/221628.shtml </code>",
+      "batch": 402,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "第十八届湖南茶业博览会启幕 打造茶文化消费嘉年华",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/420535.shtml </code>",
+      "batch": 113,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中央组织部会同有关部委修订印发“5个办法” 进一步加强行业事业单位领导人员管理",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/680994.shtml </code>",
+      "batch": 417,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "全精炼石蜡商品报价动态（2026-09-12）",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/481212.shtml </code>",
+      "batch": 428,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "中国香港运动员将首度出战亚运会摔跤项目",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/318020.shtml </code>",
+      "batch": 187,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "芯海科技：关于与关联人共同投资进展暨完成工商登记的公告",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/777618.shtml </code>",
+      "batch": 132,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/773781.shtml </code>",
+      "batch": 77,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/593004.shtml </code>",
+      "batch": 370,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "海外华商参与服贸会：拓新兴市场 促互联互通",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/983355.shtml </code>",
+      "batch": 291,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "支付宝，紧急回应",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/747467.shtml </code>",
+      "batch": 278,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/009721.shtml </code>",
+      "batch": 335,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "广州依托恐龙前沿科研成果激活全民科学教育新动能",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/448254.shtml </code>",
+      "batch": 440,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/782262.shtml </code>",
+      "batch": 259,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "黑龙江大学中共党史党建研究院揭牌",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/563925.shtml </code>",
+      "batch": 269,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2026年宁夏青少年禁毒知识竞赛总决赛在银川举办",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/330968.shtml </code>",
+      "batch": 457,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "如何看待“国产GPU四小龙”齐聚资本市场",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/094099.shtml </code>",
+      "batch": 387,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "“太太口服液”创始人辞任两家上市公司董事长",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/337954.shtml </code>",
+      "batch": 210,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "高盛继续认为其对2026年底金价4900美元/盎司的预测存在净上行风险 但也预计在此过程中将出现更大的双向波动",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/573507.shtml </code>",
+      "batch": 471,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/459662.shtml </code>",
+      "batch": 362,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "宁夏首次线上发放毕业生一次性求职补贴",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/712247.shtml </code>",
+      "batch": 491,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "Rapidus拟考虑2040年前后在月球建设半导体工厂",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/520166.shtml </code>",
+      "batch": 405,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "京津冀四地携手发布共建太空算力产业长廊倡议",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> www.share.xiangkejiazu.com/Article/details/673863.shtml </code>",
+      "batch": 221,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "2026年粤港澳大湾区攀岩公开赛（深圳）举行",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> www.blog.xiangkejiazu.com/Article/details/113492.shtml </code>",
+      "batch": 269,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    }
+  ]
+}
