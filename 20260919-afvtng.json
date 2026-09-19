@@ -1,0 +1,3022 @@
+{
+  "owner": "建宁",
+  "updated": "2026-09-19 09:05:44",
+  "version": "1.0",
+  "timezone": "Asia/Shanghai",
+  "jobs": [
+    {
+      "name": "旭日企业获董事长杨振鑫增持4万股 每股作价1.3港元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzsiq.hhpo8ker.org.cn </code>",
+      "batch": 224,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "印尼一艘载有243人的客轮失联，此前曾报告航行途中遭遇恶劣天气",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzrwxy.hhpo9ker.org.cn </code>",
+      "batch": 136,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "胜利证券(08540)拟配股融资6001万",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzmcpo.hhpo10ker.org.cn </code>",
+      "batch": 197,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2026年中国（广西）—东盟“AI+法律”应用创新大赛启动",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzvw.hhpo11ker.org.cn </code>",
+      "batch": 240,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzngg.hhpo12ker.org.cn </code>",
+      "batch": 417,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "沙特称该国输油管道遭袭致人员受伤和设施受损",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzfig.hhpo13ker.org.cn </code>",
+      "batch": 107,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "中国波顿于9月11日斥资295.36万港元回购94.4万股",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzuz.hhpo14ker.org.cn </code>",
+      "batch": 97,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "“玉润山海·闽疆同行”玛纳斯碧玉产业推介活动在湄洲岛举行",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzdtza.hhpo15ker.org.cn </code>",
+      "batch": 161,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzhrg.hhpo16ker.org.cn </code>",
+      "batch": 364,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzfll.hhpo17ker.org.cn </code>",
+      "batch": 348,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "学习新语｜推动金砖大船行稳致远",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkn.hhpo18ker.org.cn </code>",
+      "batch": 407,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "陈发树，拟减持301050",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzqus.hhpo19ker.org.cn </code>",
+      "batch": 182,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "亚氯酸钠商品报价动态（2026-09-12）",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzkyrf.hhpo20ker.org.cn </code>",
+      "batch": 240,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "最高跌30，废钢13家下跌！（9.13）",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzlwrg.hhpo21ker.org.cn </code>",
+      "batch": 409,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "（长征胜利90周年）走进“红色小镇”——贵州习水土城古镇",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzbw.hhpo22ker.org.cn </code>",
+      "batch": 415,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "欺诈发行、退市罚款，“看大门”也被罚300万",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzbkm.hhpo23ker.org.cn </code>",
+      "batch": 359,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "603258，上半年净利润亏损5877万元！4920万元收购标的盈利不足50万元",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzyz.hhpo24ker.org.cn </code>",
+      "batch": 50,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "委内瑞拉总统夫妇辩护团队申请暂时释放第一夫人",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzubd.hhpo25ker.org.cn </code>",
+      "batch": 58,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "江苏扬州百名学子着汉服巡游古城：在青砖黛瓦间对话历史",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzzdj.hhpo26ker.org.cn </code>",
+      "batch": 201,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "银川“中国之路 塞上湖城”主题自驾游活动启幕 游客深度畅游塞上风光",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzxs.hhpo27ker.org.cn </code>",
+      "batch": 473,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "陈文辉：应推动人身险商业模式由“资金型”向“保障型、服务型”转变",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzusc.hhpo28ker.org.cn </code>",
+      "batch": 270,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "2026年广东省科普讲解大赛总决赛收官",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzuib.hhpo29ker.org.cn </code>",
+      "batch": 481,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "南航将正式复航广州-新德里直飞航线",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzjk.hhpo30ker.org.cn </code>",
+      "batch": 488,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "经济观察：AI加速“跑入”千行百业 拓宽场景供给成共识",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzfrs.hhpo31ker.org.cn </code>",
+      "batch": 57,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "专家解读全球首座翼龙博物馆：打造世界级翼龙研究与科普中心",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzsum.hhpo32ker.org.cn </code>",
+      "batch": 186,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzqsim.hhpo33ker.org.cn </code>",
+      "batch": 388,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "乙酰丙酮铝商品报价动态（2026-09-12）",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzfnrv.hhpo34ker.org.cn </code>",
+      "batch": 169,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "高校买商品房当学生宿舍：空调洗衣机齐全 双人间一年1320元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzrgen.hhpo35ker.org.cn </code>",
+      "batch": 283,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "河南公布一批粉尘涉爆举报案例 多家企业在危险场所内设办公室",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzmb.hhpo36ker.org.cn </code>",
+      "batch": 378,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "超智能控股(01402)控股权或易手",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzvo.hhpo37ker.org.cn </code>",
+      "batch": 216,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "再见敬一丹，再见敬大姐",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzwagx.hhpo38ker.org.cn </code>",
+      "batch": 410,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "（长征胜利90周年）探访贵州习水四渡赤水纪念馆",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzfnhz.hhpo39ker.org.cn </code>",
+      "batch": 418,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "内地餐饮企业在港竞争激烈 2026年市场持续洗牌 海底捞、凑凑折戟 巴奴前扑后继",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzrvbu.hhpo40ker.org.cn </code>",
+      "batch": 207,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "从“一把剪刀”到“一张地图” “畲乡山花”二十年深耕记",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzcn.hhpo41ker.org.cn </code>",
+      "batch": 298,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "法国一载客列车脱轨 约20人受伤",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzlv.hhpo42ker.org.cn </code>",
+      "batch": 381,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中国算力大会“年度重大突破成果”揭晓",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzdhe.hhpo43ker.org.cn </code>",
+      "batch": 111,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "PCB牛股，刚刚提示风险！澄清涉及英伟达等不实信息",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzlbs.hhpo44ker.org.cn </code>",
+      "batch": 71,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "今年前8月河北对其他金砖国家成员国进出口1403.3亿元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzjif.hhpo45ker.org.cn </code>",
+      "batch": 273,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "英国超2000架次航班突然被取消 英媒：一军机输入虚假飞行数据所致",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzoqnq.hhpo46ker.org.cn </code>",
+      "batch": 56,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中信证券：静待加息落地 配置上建议维持AI+能化的结构",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzrmu.hhpo47ker.org.cn </code>",
+      "batch": 435,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzol.hhpo48ker.org.cn </code>",
+      "batch": 141,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "博茨瓦纳矿业与能源部长：中博矿业合作要从“挖矿”走向产业增值",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzai.hhpo49ker.org.cn </code>",
+      "batch": 209,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "直播海报：国新办就推动健康中国建设取得决定性进展有关情况举行新闻发布会",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dztbq.hhpo50ker.org.cn </code>",
+      "batch": 300,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "36.9万起！特斯拉推出Model Y高性能版",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzit.po1ker.cn </code>",
+      "batch": 230,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "乘联分会崔东树：本轮乘用车市场下行属于阶段性结构性波动",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzxsnp.po2ker.cn </code>",
+      "batch": 244,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "青海省公布24年生态数据：生态系统服务价值超3.2万亿",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzykj.po3ker.cn </code>",
+      "batch": 297,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "罗博特科通过港交所上市聆讯",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzyu.po4ker.cn </code>",
+      "batch": 243,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "企业出海不能“裸奔” 法律服务智能体亮相服贸会",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzlw.po5ker.cn </code>",
+      "batch": 474,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "（长征胜利90周年）“鸡汤银镯情”见证乌蒙山乡巨变",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzczq.po6ker.cn </code>",
+      "batch": 471,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "厄尔尼诺将达“超强”级别 该如何应对极端天气？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dziqks.po7ker.cn </code>",
+      "batch": 155,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "4.26元/股 明天年内发行价最低的新股来了",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzbqi.po8ker.cn </code>",
+      "batch": 369,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "马杜罗夫妇辩护团队以健康理由申请暂释第一夫人",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dznj.po9ker.cn </code>",
+      "batch": 339,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "华储网：9月16日中央储备冻猪肉轮换出库挂牌国产冻猪肉12900吨",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzhxpz.po10ker.cn </code>",
+      "batch": 498,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中国桨板精英联赛（西安站）收官 助力水上运动西北内陆生根",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzmjj.po11ker.cn </code>",
+      "batch": 392,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "水利部针对海南启动洪水防御Ⅳ级应急响应",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzlypg.po12ker.cn </code>",
+      "batch": 455,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "常润股份：截至9月11日公司累计回购股份591020股",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzseu.po13ker.cn </code>",
+      "batch": 412,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中国银行启动“一网三融”算力金融生态共建行动 为算力产业链提供不少于3000亿元综合金融支持",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzlah.po14ker.cn </code>",
+      "batch": 276,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "首批普惠算力赋能中小企业发展服务清单发布",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzzdn.po15ker.cn </code>",
+      "batch": 496,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "（长征胜利90周年）创新法治育人路径 最高检巡礼活动走进四川芦山",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzxbx.po16ker.cn </code>",
+      "batch": 334,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "于东来公布胖东来招工新准则：新员工均为学员性质 合同四年不续签",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzvdkv.po17ker.cn </code>",
+      "batch": 131,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "伊朗一商船在南部格什姆岛遭袭致1死3伤",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzgq.po18ker.cn </code>",
+      "batch": 117,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "机构调研热门股追踪：176家机构调研安集科技，500亿半导体材料龙头“出海”受关注",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzcfic.po19ker.cn </code>",
+      "batch": 301,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "无水氯化锂商品报价动态（2026-09-12）",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzin.po20ker.cn </code>",
+      "batch": 295,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "黑龙江省第十届少数民族传统体育运动会在伊春嘉荫启幕",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzdayy.po21ker.cn </code>",
+      "batch": 357,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "布局太空算力 上海“明珠星座计划”亮相",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzyvv.po22ker.cn </code>",
+      "batch": 465,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "华虹宏力发行1.91亿股代价股份",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzcv.po23ker.cn </code>",
+      "batch": 327,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "重庆一商圈“银河”彩灯吸引游客打卡",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzkayb.po24ker.cn </code>",
+      "batch": 454,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzqkq.po25ker.cn </code>",
+      "batch": 289,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "全精炼石蜡商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzsy.po26ker.cn </code>",
+      "batch": 392,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "铜价新高之后：下一个“白银时刻”会来吗？",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzqg.po27ker.cn </code>",
+      "batch": 411,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "据美国商品期货交易委员会（CFTC） 截至2026年9月8日当周 股票基金经理削减标普500 CME净多头头寸19,683份合约",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzsg.po28ker.cn </code>",
+      "batch": 444,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzki.po29ker.cn </code>",
+      "batch": 295,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "习近平：中方愿同金砖成员一道 为实现中东海湾地区和平安宁发挥应有作用",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzox.po30ker.cn </code>",
+      "batch": 103,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "德企在华薪资报告：哪些行业涨钱快？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzlpa.po31ker.cn </code>",
+      "batch": 123,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "每10分钟下线1台 柳州优必选万台级工业人形机器人超级智慧工厂投产",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzfl.po32ker.cn </code>",
+      "batch": 292,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "iPhone 17 Pro迎来史上最低价，你会买吗？",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzbd.po33ker.cn </code>",
+      "batch": 324,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "质量督察首次启动 揭开“三无”灯具与建材监管盲区",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzkeko.po34ker.cn </code>",
+      "batch": 324,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "西藏隆子：“云端诊室”24小时在线 援藏医者守护高原健康",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzqc.po35ker.cn </code>",
+      "batch": 362,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "星宇股份财报接连被纠错：半年报扣非加权平均净资产收益率也被质疑",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzuxpt.po36ker.cn </code>",
+      "batch": 470,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "宁夏泾源：书香不打烊 农家书屋陪伴少年课余时光",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzthwd.po37ker.cn </code>",
+      "batch": 380,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "港股银行仅三家未破净，A股银行全部破净",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzdwca.po38ker.cn </code>",
+      "batch": 76,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "折叠屏争霸战打响！华为秒售罄，苹果被炒到49999元，小米起售价首破万",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzrmfi.po39ker.cn </code>",
+      "batch": 102,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "卖得越多 利润越薄？车企半年报的“冰与火”之歌",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzaiof.po40ker.cn </code>",
+      "batch": 423,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "美以伊局势：特朗普指认伊朗或主导空袭沙特油管 伊朗南部传出爆炸声，伊曾试图用弹道导弹袭击美军军舰",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzrb.po41ker.cn </code>",
+      "batch": 487,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "AI时代科技投资：从普涨到分化，资产怎么配？",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzxzn.po42ker.cn </code>",
+      "batch": 96,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "洪汇新材：公司将于2026年9月29日召开2026年第二次临时股东会",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkpv.po43ker.cn </code>",
+      "batch": 114,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "机器人出货1.5万台 智元老板招兵买马",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzdof.po44ker.cn </code>",
+      "batch": 309,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "预订量暴增1000%！“宝藏小城”藏不住了",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzyfpd.po45ker.cn </code>",
+      "batch": 311,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "当物流装上“AI引擎” 如何跑出新速度？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dznmhz.po46ker.cn </code>",
+      "batch": 499,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "扩大开放功能持续提升 2026年服贸会深化国际合作",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzsmbe.po47ker.cn </code>",
+      "batch": 457,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "支付宝安全中心就“网上流传所谓App截图”发布风险提醒",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzpebf.po48ker.cn </code>",
+      "batch": 299,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "携手推动“大金砖合作”高质量发展",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzqa.po49ker.cn </code>",
+      "batch": 329,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "高盛：新鸿基地产目标价下调至169港元 重申“买入”评级",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dznzp.po50ker.cn </code>",
+      "batch": 413,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "年纪轻轻，血管健康怎么就亮起红灯？医生提醒",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzdehg.ybuhg57.cn </code>",
+      "batch": 182,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "加息25个基点？美联储重磅来袭！高盛最新研判",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dziruc.wwfzfsmy.cn </code>",
+      "batch": 231,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "多学科学者在沪研讨孙中山思想当代价值",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzyww.vyrdpg.cn </code>",
+      "batch": 456,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "闪迪：签署15亿美元循环信贷额度修订协议 2031年到期",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzgiz.oopccjio.cn </code>",
+      "batch": 282,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "乌克兰军方称袭击了俄罗斯克拉斯诺达尔地区的一座炼油厂",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzorf.te5u58.cn </code>",
+      "batch": 53,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "华银基金新任总经理落定：刘丹履新，华夏银行系高管再落一子",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzsztd.tzcpjtgw.cn </code>",
+      "batch": 75,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "从贸易通道到民生市场 金砖合作在南非落地见效",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzarvu.wcfwxwjw.cn </code>",
+      "batch": 74,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "香港警察跆拳道会成立50周年 粤港澳选手在港竞技",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dztmba.czfsysle.cn </code>",
+      "batch": 352,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "高文院士：中国科研体系应“四路并进”",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dztyia.dpcpbbov.cn </code>",
+      "batch": 424,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "华南多地风雨持续局地有大暴雨 北方昼夜温差较大",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzrey.bnadtnqj.cn </code>",
+      "batch": 165,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "编造、传播“税率调整”虚假信息，四人被证监会处罚",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzfm.umrsr48.cn </code>",
+      "batch": 90,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzgy.x23pl0.cn </code>",
+      "batch": 257,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "贵州梵净山：秋景如画卷",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzvk.jyeryrer.cn </code>",
+      "batch": 198,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "上海（长三角）国际科技创新中心建设阶段成果发布",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzovgl.jv7ac3.cn </code>",
+      "batch": 439,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "高德扫街榜发布“飞行街景2.0”：ABot-Earth 0.7世界模型驱动，提前自由探索目的地",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzgwir.kgfd5r.cn </code>",
+      "batch": 254,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "让宁德时代躺枪的裸奔事件，是4000亿“青山系”的劳资纠纷",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkew.urqkxded.cn </code>",
+      "batch": 473,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "金安国纪：连续2个交易日收盘价涨幅偏离值累超20%",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzbcq.nsgkc11.cn </code>",
+      "batch": 217,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzmlgd.aajwtcpv.cn </code>",
+      "batch": 497,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzudt.ed5gq5.cn </code>",
+      "batch": 246,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "保时捷青岛女销冠暂居“全球第一” 但欧美豪车在中国卖不动了：保时捷4年销量腰斩 BBA上半年少卖20万台",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzld.r6hrvn.cn </code>",
+      "batch": 282,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "人形机器人，降价潮来了",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzjp.amibvubo.cn </code>",
+      "batch": 267,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzudx.ehdog38.cn </code>",
+      "batch": 183,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "算力“提速”背后 精密测试守住毫厘关口",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzgbwi.yugnahff.cn </code>",
+      "batch": 144,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "芯海科技：关于与关联人共同投资进展暨完成工商登记的公告",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzwx.dbp9dwi.cn </code>",
+      "batch": 318,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "胡塞武装称沙特对也门发动129次空袭",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzxnjp.dbp9jba.cn </code>",
+      "batch": 431,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "“赖传珠革命生涯研究中心”在华东交通大学成立",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzvodx.aetgatts.cn </code>",
+      "batch": 319,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "波音向工程师工会提交最终提案 包含10%加薪",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzzp.wzmqwxdw.cn </code>",
+      "batch": 51,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2026深圳“一带一路”国际音乐季启幕",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzpya.dcsie72.cn </code>",
+      "batch": 275,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "深圳国际：完成发行2026年中期票据(第四期)",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzvt.dumlz78.cn </code>",
+      "batch": 107,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkva.ocpiiior.cn </code>",
+      "batch": 327,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "青海西宁欢乐健康跑点燃全民健身活力",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzumvr.fnveniez.cn </code>",
+      "batch": 408,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "月内主流手机厂商密集调价",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzcjj.lecwcwpp.cn </code>",
+      "batch": 303,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "“宴飨万年——数说中国古代饮食文化”展览在巴黎揭幕",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzgtur.zflrsqqp.cn </code>",
+      "batch": 222,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "粉末醋酸钠商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dziiuj.qksoxgcx.cn </code>",
+      "batch": 66,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "“红通人员”曾能贵被引渡回国",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzwzp.cbkxivgj.cn </code>",
+      "batch": 137,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzvyhk.lrxkyryl.cn </code>",
+      "batch": 97,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "江西南昌：“星河万里”无人机点亮赣江夜空",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dziihz.rxqqdwjd.cn </code>",
+      "batch": 396,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzzdi.sooilfou.cn </code>",
+      "batch": 111,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "高盛调整预期：美联储9月加息，此前预计维持利率不变",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzmjs.oiigbbuu.cn </code>",
+      "batch": 218,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "巴西央行将于9月15日进行最高10亿美元的即期美元拍卖",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzhxv.uoxgpytp.cn </code>",
+      "batch": 269,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "澜起科技获UBS Group AG增持32.96万股 每股作价约276.97港元",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzpy.yejjwqqw.cn </code>",
+      "batch": 240,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "民调：近八成德国人认为默茨“不适合”当总理",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzrzu.vmzrkxkt.cn </code>",
+      "batch": 477,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzbn.b5kghd.cn </code>",
+      "batch": 66,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "安理会通过决议 对苏丹制裁授权进行一个月的技术性延期",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzbsum.ktsfmsts.cn </code>",
+      "batch": 238,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "大和：海底捞目标价下调至11.3港元 重申“跑赢大市”评级",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzubjv.jvsyryre.cn </code>",
+      "batch": 165,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "【光大金工】震荡或是当前市场主基调——金融工程市场跟踪周报20260913",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dztq.hhjqwoio.cn </code>",
+      "batch": 408,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "赴秋日骑行之约 石家庄环城绿道骑游大会启幕",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dznj.bvrmvezv.cn </code>",
+      "batch": 183,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "两岸资深电影人热议闽南语电影创作",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzfjb.3mtv9m.cn </code>",
+      "batch": 355,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "浩瀚深度：股东雷振明拟减持不超1%股份",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzrx.zo1r10.cn </code>",
+      "batch": 217,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "服贸会观察：中国电商消费转向体验、理性与近场",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzbhgm.shangcaihe.cn </code>",
+      "batch": 305,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "智谱募资50亿美元：多家长线基金加持 用于下一代GLM研发",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzmp.dabaicha.cn </code>",
+      "batch": 282,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "能源危机骤然升级！沙特关键输油管道遇袭后预防性关闭",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzibsw.ruirenzi.cn </code>",
+      "batch": 321,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzcp.aidaiban.cn </code>",
+      "batch": 407,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "聚焦开放与共享 服贸会展现中国文化新表达",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzfn.chudaoren.cn </code>",
+      "batch": 230,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "《欢迎来龙餐馆》海外热映 高校教师“英文译制”中国故事",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dznu.kangxiaozhu.cn </code>",
+      "batch": 111,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "中东局势持续紧张 有报道称“华盛顿号”航母处于高度戒备状态",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzygen.7ci4d26.cn </code>",
+      "batch": 462,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "智谱：以零息+溢价转股形式融资50亿美元 释放长期股权预期",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzucod.exknwve.cn </code>",
+      "batch": 361,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中国华文教育“名师巡讲”南非开讲",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzun.lemlcal.cn </code>",
+      "batch": 209,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "刚果（金）埃博拉确诊病例超7000例",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzwtlb.zqheka0.cn </code>",
+      "batch": 475,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzqljk.ytouix0.cn </code>",
+      "batch": 286,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "（活力中国）联结与互鉴：河南殷墟博物馆探索国际交流新空间",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzifm.aaonub7.cn </code>",
+      "batch": 352,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "印尼布罗莫火山景区因山火全面关闭 中领馆发布提醒",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzlxdk.fanxibo.cn </code>",
+      "batch": 159,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzlw.adyhx79.cn </code>",
+      "batch": 331,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "信息披露新规实施两周 私募基金体感如何",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzeri.zrtny73.cn </code>",
+      "batch": 347,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "中国算力平台实现全国一体化算力统筹监测",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzgleq.ru2cpvn.cn </code>",
+      "batch": 122,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "哔哩哔哩-W获UBS Group AG增持约759.24万股 每股作价约116.51港元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzaxpa.7ibl0oy.cn </code>",
+      "batch": 288,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "远望谷半年两换赛道，拟收购的光通信设备公司发明专利仅2个",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzdca.buxnw65.cn </code>",
+      "batch": 253,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzivvx.bmzfu99.cn </code>",
+      "batch": 358,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "北京海峡两岸书画家联谊会第九届第一次会员大会在京召开",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzmmz.fjyln16.cn </code>",
+      "batch": 58,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "美联储表示 美国上周银行存款19.566万亿美元 之前一周19.559万亿美元",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzzvby.jcjima.cn </code>",
+      "batch": 385,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzrte.xrmpzm.cn </code>",
+      "batch": 371,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "纽约尾盘 现货黄金涨0.68%",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzxoh.xbvdzk.cn </code>",
+      "batch": 429,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "日本防卫大臣再妄称不排除拥有核动力潜艇，日媒：该言论践踏日本“无核三原则”",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzvgji.rzheb73.cn </code>",
+      "batch": 468,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "Datafolha民调：若巴西总统选举进入决选 卢拉支持率46% 博索纳罗44%",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dznbi.21sbkuq.cn </code>",
+      "batch": 134,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "《2026粤港澳大湾区青年歌会》播出 金志文等众歌手唱响湾区",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzkxp.y87oyh1.cn </code>",
+      "batch": 472,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "海南全省消防救援队伍进入二级响应 全力应对强降雨",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzeuew.ytjly30.cn </code>",
+      "batch": 145,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "180亿美元涌入！世界黄金协会最新报告",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzxu.oohoiov.cn </code>",
+      "batch": 435,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中国古脊椎动物学第18次学术年会暨第10届翼龙国际会议举行",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzbhb.j3j57x7.cn </code>",
+      "batch": 279,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "四川成都：民众沉浸式体验天文艺术展",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzzj.p9e05ww.cn </code>",
+      "batch": 167,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "2026年WDSF世界霹雳舞3V3混合团体锦标赛在成都开赛",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzxod.hhpo1ker.org.cn </code>",
+      "batch": 51,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "锡林浩特城市那达慕：民俗进城市，文化融邻里",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dztj.hhpo2ker.org.cn </code>",
+      "batch": 189,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "贺兰佳酿飘香黔中 22家宁夏企组团亮相贵州酒博会",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzmcuf.hhpo3ker.org.cn </code>",
+      "batch": 384,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "从地名读懂宁夏：溯源方寸地名解锁“塞上江南”千年变迁",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkfhz.hhpo4ker.org.cn </code>",
+      "batch": 231,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "乌克兰经济部长表示 俄罗斯空袭对乌克兰基础设施和固定资产的破坏估计今年达100亿美元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzfy.hhpo5ker.org.cn </code>",
+      "batch": 435,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "沈鼓集团：首次公开发行股票并在主板上市",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzpoxe.hhpo6ker.org.cn </code>",
+      "batch": 266,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "青花汾20、国窖1573小幅回弹 洋河梦之蓝M6+、青花郎重跌",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzge.hhpo7ker.org.cn </code>",
+      "batch": 223,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "斯诺克英格兰公开赛：丁俊晖晋级四强",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzjczm.hhpo8ker.org.cn </code>",
+      "batch": 308,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "天地一体跨域智算网工程启动",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzou.hhpo9ker.org.cn </code>",
+      "batch": 463,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "碳酸锂期货盘中跌近10% 锂盐企业直言“没看懂”！供需因素发生了什么变化？",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzvo.hhpo10ker.org.cn </code>",
+      "batch": 119,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "公募逆周期布局提速  机构称A股变盘点或已不远",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzba.hhpo11ker.org.cn </code>",
+      "batch": 371,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "2只PCB大牛股澄清供货英伟达传闻",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzdrk.hhpo12ker.org.cn </code>",
+      "batch": 280,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "纳斯达克中国金龙指数收涨0.4%",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzeyrb.hhpo13ker.org.cn </code>",
+      "batch": 293,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "花旗调整美联储利率预期：预计9月加息 明年启动降息",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzwqjv.hhpo14ker.org.cn </code>",
+      "batch": 61,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "菲律宾客船起火事故致35人死亡、54人失联",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzck.hhpo15ker.org.cn </code>",
+      "batch": 83,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzzfp.hhpo16ker.org.cn </code>",
+      "batch": 125,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "金安国纪：目前未与英伟达、华为有过接触，也未与其开展任何形式的业务合作",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzly.hhpo17ker.org.cn </code>",
+      "batch": 427,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzjtlf.hhpo18ker.org.cn </code>",
+      "batch": 281,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "聚焦智能科创新能源 台湾青年参访团在渝深入考察交流",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzho.hhpo19ker.org.cn </code>",
+      "batch": 107,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "漂白剂商品报价动态（2026-09-12）",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzvuwo.hhpo20ker.org.cn </code>",
+      "batch": 395,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "高盛调整美联储政策预期：从此前预测按兵不动转为预计9月加息",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzhk.hhpo21ker.org.cn </code>",
+      "batch": 427,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "第26届四川中秋食品博览会在成都启幕",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzfl.hhpo22ker.org.cn </code>",
+      "batch": 443,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "广发证券六张罚单同日落地，经纪业务内控成焦点",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzos.hhpo23ker.org.cn </code>",
+      "batch": 174,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "安徽省黄梅戏剧院圈粉台北观众",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzwi.hhpo24ker.org.cn </code>",
+      "batch": 196,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "嘉兴平湖办浙台棒垒球交流 选手大半是台青",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzixvm.hhpo25ker.org.cn </code>",
+      "batch": 434,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "康宁达成最高20亿美元的股权配售协议",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzgud.hhpo26ker.org.cn </code>",
+      "batch": 254,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "AI基建太烧钱！甲骨文新增7亿美元重组预算 用于裁员补偿",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzgpn.hhpo27ker.org.cn </code>",
+      "batch": 276,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "刚果（金）埃博拉疫情累计确诊病例超6900例",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzqsi.hhpo28ker.org.cn </code>",
+      "batch": 194,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "从“造空间”到“造场景” 服贸会这场论坛指明城市发展逻辑",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzfc.hhpo29ker.org.cn </code>",
+      "batch": 248,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "拉里·埃里森取消最高75亿美元甲骨文股票出售计划",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzwh.hhpo30ker.org.cn </code>",
+      "batch": 337,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "2026年宁夏青少年禁毒知识竞赛总决赛在银川举办",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzpo.hhpo31ker.org.cn </code>",
+      "batch": 325,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "据报道 美国商务部长卢特尼克表示美国可尝试“赚取”资金用于发放5000美元支票 不会依赖税收资金",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzqknt.hhpo32ker.org.cn </code>",
+      "batch": 240,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "特斯拉Semi卡车将进军欧洲 满载续航最高550公里",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzhobg.hhpo33ker.org.cn </code>",
+      "batch": 255,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "2026年达喀尔青奥会圣火抵达塞内加尔",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzcy.hhpo34ker.org.cn </code>",
+      "batch": 393,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中国贸促会副会长李兴乾率团访问俄罗斯",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzxcu.hhpo35ker.org.cn </code>",
+      "batch": 398,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "2026年粤港澳自然教育论坛在东莞举行",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzya.hhpo36ker.org.cn </code>",
+      "batch": 143,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "新光光电已上市7年，账上现金充足，募投项目却多次延期！记者实探→",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzamff.hhpo37ker.org.cn </code>",
+      "batch": 155,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "天安新材：公司将于9月21日召开2026年半年度业绩说明会",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzyqz.hhpo38ker.org.cn </code>",
+      "batch": 463,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "第九届全国业余围棋大赛（南部赛区）在广西南宁落子",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzuikx.hhpo39ker.org.cn </code>",
+      "batch": 213,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "公职人员醉驾致夫妻身亡，事故主次责认定引质疑 警方已启动复核",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzcha.hhpo40ker.org.cn </code>",
+      "batch": 314,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "解锁夜间科普新玩法 重庆办“科技馆之夜”点燃科学好奇心",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzzdwc.hhpo41ker.org.cn </code>",
+      "batch": 368,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "激智科技：每10股派0.5元，股权登记日为9月18日",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzrfoo.hhpo42ker.org.cn </code>",
+      "batch": 77,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "FCC靴子落地，光模块最大风险解除？",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkaxw.hhpo43ker.org.cn </code>",
+      "batch": 254,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "继续停牌！新华传媒推进收购界面财联社控股权",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzefi.hhpo44ker.org.cn </code>",
+      "batch": 218,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "伊拉克调查袭击沙特事件并解职相关指挥官",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzmn.hhpo45ker.org.cn </code>",
+      "batch": 294,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "今年卖家电，谁最赚钱？这些家电，卖不动了",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzzd.hhpo46ker.org.cn </code>",
+      "batch": 440,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "一首90年前的老歌，为何让我们热泪盈眶？",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzauvw.hhpo47ker.org.cn </code>",
+      "batch": 129,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzeokg.hhpo48ker.org.cn </code>",
+      "batch": 440,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "B7-H3靶点ADC全球率先突破 世界肺癌大会迎来中国时刻",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzmxw.hhpo49ker.org.cn </code>",
+      "batch": 359,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "一锦织就世纪工程 平陆运河壮锦长卷首次亮相",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzrygd.hhpo50ker.org.cn </code>",
+      "batch": 56,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "户外运动为何持续吸引年轻人？热潮更需冷思考",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzvjv.po1ker.cn </code>",
+      "batch": 283,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "兴证策略：迎接关键时刻",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzfrn.po2ker.cn </code>",
+      "batch": 370,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "氯酸钠商品报价动态（2026-09-12）",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzphbq.po3ker.cn </code>",
+      "batch": 313,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "中巨芯拟投11亿元布局半导体高纯石英 标的公司尚未盈利",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzifzd.po4ker.cn </code>",
+      "batch": 403,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzkpf.po5ker.cn </code>",
+      "batch": 100,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "欧洲股市周五反弹 仍创下7月份以来最差单周表现",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzbse.po6ker.cn </code>",
+      "batch": 215,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "政策与市场共振 电力板块投资机遇凸显",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzeunm.po7ker.cn </code>",
+      "batch": 244,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "2026第十四届环太湖国际公路自行车赛启幕",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dztk.po8ker.cn </code>",
+      "batch": 352,
+      "retry": 5,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "海藻糖商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzpgbu.po9ker.cn </code>",
+      "batch": 351,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "学习新语｜习近平主席深刻阐述“金砖合作”",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzuzk.po10ker.cn </code>",
+      "batch": 76,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "华友钴业旗下津巴布韦华景科技通过ISO 37301认证",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzmr.po11ker.cn </code>",
+      "batch": 257,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "中国贸促会副会长李庆霜率中国企业家代表团赴印度出席金砖国家工商论坛",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzant.po12ker.cn </code>",
+      "batch": 488,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "联合国南南合作日纪念活动在杭州举行",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzimv.po13ker.cn </code>",
+      "batch": 103,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "液体尿素商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzekb.po14ker.cn </code>",
+      "batch": 140,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "粤超八强赛：深圳队、梅州队、东莞队率先晋级四强",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzff.po15ker.cn </code>",
+      "batch": 336,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "1-羟基-2-萘甲酸商品报价动态（2026-09-12）",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzoptr.po16ker.cn </code>",
+      "batch": 416,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "高盛：美联储加息预期的再次上升可能引发交易商对冲头寸的解除 从而导致黄金价格出现比往常更为剧烈的调整",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzyct.po17ker.cn </code>",
+      "batch": 249,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "南向资金7月以来净买入近千亿港元 科技与红利资产获显著加仓",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzhia.po18ker.cn </code>",
+      "batch": 436,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "美国政府本财年前11个月财政赤字达1.97万亿美元",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzjsb.po19ker.cn </code>",
+      "batch": 57,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "“光”的背后 新凯来万里眼们正在改写产业链",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzygi.po20ker.cn </code>",
+      "batch": 88,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "受热带低压环流影响 广西部分海上航线及旅游项目暂停",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzbfw.po21ker.cn </code>",
+      "batch": 375,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "纳指科技ETF景顺：9月14日开市起至当日10:30停牌",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzii.po22ker.cn </code>",
+      "batch": 193,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "日本上调十胜岳火山喷发警戒级别",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzmajj.po23ker.cn </code>",
+      "batch": 416,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "全球顶尖越野摩托车手齐聚上海一争高下",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzbax.po24ker.cn </code>",
+      "batch": 402,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzfk.po25ker.cn </code>",
+      "batch": 313,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "“人工智能+软件”专项行动实施方案出炉 软件业竞争逻辑转向“拼智能体”",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzjjv.po26ker.cn </code>",
+      "batch": 338,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "菲律宾客船起火事故死亡人数升至76人",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzxs.po27ker.cn </code>",
+      "batch": 480,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "涉足控制器芯片！605303，筹划重大资产重组",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzwttp.po28ker.cn </code>",
+      "batch": 419,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "埃里森取消出售至多5000万股甲骨文股票的计划后 在加密平台交易的甲骨文股票合约上涨2%",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzgpwv.po29ker.cn </code>",
+      "batch": 334,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzcyj.po30ker.cn </code>",
+      "batch": 73,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "美国柴油零售均价创历史新高",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzdcn.po31ker.cn </code>",
+      "batch": 149,
+      "retry": 4,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "英前官员称英脱欧后经济跌落悬崖",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzii.po32ker.cn </code>",
+      "batch": 308,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "哈萨克斯坦赛加羚羊数量超468万只 种群增长带来管理难题",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzex.po33ker.cn </code>",
+      "batch": 228,
+      "retry": 3,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "追梦中华·侨见自贸港：天涯底蕴，旅游小镇",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzrd.po34ker.cn </code>",
+      "batch": 481,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "提高资本市场制度包容性 吸引优质企业扎根A股",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzkkps.po35ker.cn </code>",
+      "batch": 66,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "腾讯、字节、百度提前抢人 奖学金每人可拿20万！",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dznqu.po36ker.cn </code>",
+      "batch": 402,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "欧洲9国旅行商与媒体考察团走进宁夏",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzvn.po37ker.cn </code>",
+      "batch": 113,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "5200封香港家书写给航天员黎家盈",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzla.po38ker.cn </code>",
+      "batch": 417,
+      "retry": 0,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "常润股份：截至9月11日累计回购股份59.102万股",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzkxt.po39ker.cn </code>",
+      "batch": 428,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "佩斯科夫：俄总统普京是否参加G20峰会尚未确定",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzcwvf.po40ker.cn </code>",
+      "batch": 187,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "欲冲击IPO！造船巨头启动上市辅导",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzxvo.po41ker.cn </code>",
+      "batch": 132,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "智能网联新能源汽车产业发展“十五五”规划定下目标 自动驾驶车辆的安全性能大幅超过人类驾驶员",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzscb.po42ker.cn </code>",
+      "batch": 77,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "猪价震荡调整，机构称年内猪价低点基本已明确",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzzv.po43ker.cn </code>",
+      "batch": 370,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "星宇股份再爆第三雷：产业园九成员工是临时工",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzgj.po44ker.cn </code>",
+      "batch": 291,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "第十八届中国国际种业博览会合肥举行 聚焦智能育种",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzfd.po45ker.cn </code>",
+      "batch": 278,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "具身智能是否有泡沫？CEO们等待从“能做”到“能用” 年轻创业者又在押注什么",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzly.po46ker.cn </code>",
+      "batch": 335,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "雄安国际算力一体化调度中心启动运行",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dznz.po47ker.cn </code>",
+      "batch": 440,
+      "retry": 0,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "安全性能位居全球第一梯队！华龙一号2.0版创新成果亮相",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzyaqr.po48ker.cn </code>",
+      "batch": 259,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "甲骨文将额外投入7亿美元用于重组计划",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzblr.po49ker.cn </code>",
+      "batch": 269,
+      "retry": 1,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "“产能预警调控”首入汽车五年规划 产能治理要动真格了吗？",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzkl.po50ker.cn </code>",
+      "batch": 457,
+      "retry": 2,
+      "enabled": true,
+      "tags": []
+    },
+    {
+      "name": "“产能预警调控”首入汽车五年规划，产能治理要动真格了吗？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzgsal.ybuhg57.cn </code>",
+      "batch": 387,
+      "retry": 2,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "OpenAI证实其AI智能体于今年5月对RubyGems发起网络攻击",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzqns.wwfzfsmy.cn </code>",
+      "batch": 210,
+      "retry": 3,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dztxq.vyrdpg.cn </code>",
+      "batch": 471,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "新华图讯丨习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "schedule": "0 3 * * *",
+      "endpoint": "<code> dzbjn.oopccjio.cn </code>",
+      "batch": 362,
+      "retry": 1,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "第三届粤港澳大湾区博士博士后创新创业大赛复赛在穗举行",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzzhto.te5u58.cn </code>",
+      "batch": 491,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "国家医保局公布医疗机构涉医药购销商业贿赂案",
+      "schedule": "*/30 * * * *",
+      "endpoint": "<code> dzcvqh.tzcpjtgw.cn </code>",
+      "batch": 405,
+      "retry": 4,
+      "enabled": true,
+      "tags": [
+        "sync",
+        "daily"
+      ]
+    },
+    {
+      "name": "联合国就也门问题举行紧急会议 中方呼吁尽快实现停火",
+      "schedule": "0 * * * *",
+      "endpoint": "<code> dzps.wcfwxwjw.cn </code>",
+      "batch": 221,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    },
+    {
+      "name": "第十八届湖南茶业博览会启幕 打造茶文化消费嘉年华",
+      "schedule": "*/5 * * * *",
+      "endpoint": "<code> dzpz.czfsysle.cn </code>",
+      "batch": 269,
+      "retry": 5,
+      "enabled": true,
+      "tags": [
+        "batch"
+      ]
+    }
+  ]
+}
