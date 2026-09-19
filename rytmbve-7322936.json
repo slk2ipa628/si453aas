@@ -1,0 +1,1290 @@
+{
+  "index": {
+    "title": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+    "owner": "王季荷",
+    "updated": "2026-09-19 09:32:04",
+    "locale": "zh-CN"
+  },
+  "sections": [
+    {
+      "title": "基础概念",
+      "slug": "basic",
+      "terms": [
+        {
+          "term": "赣台会二十届 台商深耕江西",
+          "url": "<code> ldup.www.xfpywsc.cn/71193db.shtml </code>",
+          "weight": 2
+        },
+        {
+          "term": "澜起科技获UBS Group AG增持32.96万股 每股作价约276.97港元",
+          "url": "<code> hz.www.qepduzk.cn/99717db.shtml </code>",
+          "weight": 52
+        },
+        {
+          "term": "光子产业生态大会举行 专家建言技术跨越从实验室到生产线",
+          "url": "<code> zq.www.spwahtb.cn/04900db.shtml </code>",
+          "weight": 99
+        },
+        {
+          "term": "毕马威吴旭初：从“买商品”到“买服务” 中国消费引擎换挡",
+          "url": "<code> hoaq.www.exyjhhq.cn/53029db.shtml </code>",
+          "weight": 33
+        },
+        {
+          "term": "空座位背后，谁在制造地缘暗流？ | 新漫评",
+          "url": "<code> db.www.lepjlqs.cn/75730db.shtml </code>",
+          "weight": 14
+        },
+        {
+          "term": "中金：通胀粘性支持加息 预计美联储加息25个基点",
+          "url": "<code> dpk.www.rurbxvj.cn/03412db.shtml </code>",
+          "weight": 5
+        },
+        {
+          "term": "815名运动员548张新面孔 亚运会中国体育看什么？",
+          "url": "<code> zajqk.www.wyqrtct.cn/05406db.shtml </code>",
+          "weight": 17
+        },
+        {
+          "term": "今年前8月河北对其他金砖国家成员国进出口1403.3亿元",
+          "url": "<code> ulirz.www.ialjdjq.cn/91807db.shtml </code>",
+          "weight": 65
+        },
+        {
+          "term": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+          "url": "<code> vzqn.www.cjndwln.cn/77313db.shtml </code>",
+          "weight": 96
+        },
+        {
+          "term": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+          "url": "<code> rxad.www.dp4pok.com.cn/29084db.shtml </code>",
+          "weight": 27
+        },
+        {
+          "term": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨",
+          "url": "<code> qd.www.hh4pok.com.cn/44108db.shtml </code>",
+          "weight": 2
+        },
+        {
+          "term": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+          "url": "<code> sp.www.dp4pok.org.cn/66952db.shtml </code>",
+          "weight": 77
+        },
+        {
+          "term": "郑永年：AI是“技术利维坦” 人类必须掌握方向盘",
+          "url": "<code> gdr.www.hh4pok.org.cn/23197db.shtml </code>",
+          "weight": 51
+        },
+        {
+          "term": "菲律宾客船起火事故致35人死亡、54人失联",
+          "url": "<code> khr.www.lsnvodp.cn/38397db.shtml </code>",
+          "weight": 22
+        },
+        {
+          "term": "三峡百里荒：农文旅融合点“旺”山乡烟火气",
+          "url": "<code> dfjwz.www.ilcvnkt.cn/87791db.shtml </code>",
+          "weight": 62
+        },
+        {
+          "term": "小摩：兖矿能源维持“中性”评级 目标价维持12.5港元",
+          "url": "<code> lunu.www.rjqfupt.cn/97686db.shtml </code>",
+          "weight": 66
+        },
+        {
+          "term": "探访重庆长江文化：还江于民，让历史在江岸新生",
+          "url": "<code> hyp.www.yaukjmc.cn/19374db.shtml </code>",
+          "weight": 81
+        },
+        {
+          "term": "纳斯达克中国金龙指数收涨0.4%",
+          "url": "<code> ie.www.moasdlr.cn/58958db.shtml </code>",
+          "weight": 1
+        },
+        {
+          "term": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
+          "url": "<code> xq.www.mzenwkm.cn/28410db.shtml </code>",
+          "weight": 73
+        },
+        {
+          "term": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
+          "url": "<code> ir.www.jxeosie.cn/75129db.shtml </code>",
+          "weight": 93
+        },
+        {
+          "term": "中国华文教育“名师巡讲”南非开讲",
+          "url": "<code> xl.www.efhxksw.cn/19088db.shtml </code>",
+          "weight": 93
+        },
+        {
+          "term": "华侨华人中医药从业者：推动中医药出海数智化、标准化、体系化",
+          "url": "<code> bp.www.ihslmck.cn/33651db.shtml </code>",
+          "weight": 90
+        },
+        {
+          "term": "华为Mate XT 2非凡大师全渠道开售",
+          "url": "<code> xmifi.www.x4130.com/02741db.shtml </code>",
+          "weight": 34
+        },
+        {
+          "term": "2026乌鲁木齐马拉松鸣枪开跑",
+          "url": "<code> qyg.www.fxzxkj.com/65323db.shtml </code>",
+          "weight": 77
+        },
+        {
+          "term": "企步新长征 | 从“白鸽变黑”到联合国样本：一座百年矿山的长征接力",
+          "url": "<code> pt.www.binlicn.com/43888db.shtml </code>",
+          "weight": 10
+        },
+        {
+          "term": "印尼失联客轮事故位置确认 海浪超2米给救援带来困难",
+          "url": "<code> pl.www.youyatang.com/06552db.shtml </code>",
+          "weight": 99
+        },
+        {
+          "term": "“太太口服液”创始人朱保国，一天辞去两家上市药企董事长职位",
+          "url": "<code> ol.www.xnlwy.com/05645db.shtml </code>",
+          "weight": 99
+        },
+        {
+          "term": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
+          "url": "<code> fv.www.sfgygroup.com/58611db.shtml </code>",
+          "weight": 50
+        },
+        {
+          "term": "特朗普连续3天许诺5000美元分红",
+          "url": "<code> oonx.www.gzjnjl.com/90871db.shtml </code>",
+          "weight": 100
+        },
+        {
+          "term": "秋燥分两种，很多人都补反了，越补燥感越重！",
+          "url": "<code> ou.www.jzjjc.com/95543db.shtml </code>",
+          "weight": 4
+        },
+        {
+          "term": "代价沉重，为省几百万，星宇赴港上市果然遇阻，后悔也来不及了，给制造业敲响警钟",
+          "url": "<code> vvt.www.mingdudoors.com/80711db.shtml </code>",
+          "weight": 50
+        },
+        {
+          "term": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
+          "url": "<code> mtkq.www.haoke101.com/70004db.shtml </code>",
+          "weight": 4
+        },
+        {
+          "term": "创维数字：不存在“大股东持股比例仅13%”情形",
+          "url": "<code> xwgpw.www.a0145.com/11224db.shtml </code>",
+          "weight": 98
+        },
+        {
+          "term": "兴安盟袁隆平院士工作站耐盐碱水稻亩产超552公斤",
+          "url": "<code> eqi.www.wfhuiyuanmuye.com/54418db.shtml </code>",
+          "weight": 81
+        },
+        {
+          "term": "鸿路钢构：签订3.75亿元钢结构材料锁价合作协议",
+          "url": "<code> ugop.www.deleyijia.com/39730db.shtml </code>",
+          "weight": 1
+        },
+        {
+          "term": "我国词元需求呈现爆发式增长 预计2026年消耗量将达到10亿亿",
+          "url": "<code> jiru.www.qhsghz.com/91600db.shtml </code>",
+          "weight": 69
+        },
+        {
+          "term": "马斯克抨击纪录片《马斯克》导演",
+          "url": "<code> tj.www.seotb.cn/39470db.shtml </code>",
+          "weight": 91
+        },
+        {
+          "term": "DeepSeek灰度测试语音对话",
+          "url": "<code> fcri.www.zhuxingkun1.cn/19973db.shtml </code>",
+          "weight": 24
+        },
+        {
+          "term": "美国能源部长赖特称 美国“无论如何”都会终止伊朗的核计划",
+          "url": "<code> yfy.www.kurmi.cn/98653db.shtml </code>",
+          "weight": 46
+        },
+        {
+          "term": "海南强降雨致岛内部分市县道路交通管制、学校停课",
+          "url": "<code> swzee.www.yehexing35.cn/55349db.shtml </code>",
+          "weight": 90
+        },
+        {
+          "term": "中国古脊椎动物学第18次学术年会暨第10届翼龙国际会议举行",
+          "url": "<code> nl.www.wjgqo.cn/26693db.shtml </code>",
+          "weight": 54
+        },
+        {
+          "term": "布伦特原油期货结算价为每桶104.61美元",
+          "url": "<code> xidf.www.vwgxbrv.cn/94315db.shtml </code>",
+          "weight": 47
+        },
+        {
+          "term": "习近平总结金砖20年发展成就",
+          "url": "<code> oofa.www.ylqwspw.cn/87489db.shtml </code>",
+          "weight": 90
+        },
+        {
+          "term": "台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+          "url": "<code> tw.www.zrejqzx.cn/70738db.shtml </code>",
+          "weight": 50
+        },
+        {
+          "term": "精锻科技：拟申请开展本外币跨境资金集中运营业务 额度不超12亿元",
+          "url": "<code> nw.www.zfnvgyj.cn/18987db.shtml </code>",
+          "weight": 49
+        },
+        {
+          "term": "宁夏首次线上发放毕业生一次性求职补贴",
+          "url": "<code> fwt.www.hbntbxg.cn/85785db.shtml </code>",
+          "weight": 17
+        },
+        {
+          "term": "上海再出重磅规划！30年的城市大扩张，要彻底转向了",
+          "url": "<code> mkqke.www.mnejdmd.cn/19332db.shtml </code>",
+          "weight": 4
+        },
+        {
+          "term": "厘清车企账期不妨多些刚性约束",
+          "url": "<code> iw.www.kcahbfm.cn/55642db.shtml </code>",
+          "weight": 27
+        },
+        {
+          "term": "中国算力大会“年度重大突破成果”揭晓",
+          "url": "<code> gppy.www.ashzdba.cn/96220db.shtml </code>",
+          "weight": 54
+        },
+        {
+          "term": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
+          "url": "<code> cr.www.vjxsukg.cn/94108db.shtml </code>",
+          "weight": 75
+        }
+      ]
+    },
+    {
+      "title": "进阶用法",
+      "slug": "advanced",
+      "terms": [
+        {
+          "term": "印尼布罗莫火山景区因山火全面关闭 中领馆发布提醒",
+          "url": "<code> ps.www.yulasfy.cn/16755db.shtml </code>",
+          "weight": 17
+        },
+        {
+          "term": "一日七家券商领罚单！事涉经纪、“股市小作文”、反洗钱等，高管同步被追责",
+          "url": "<code> hppi.www.ifagxtz.cn/82383db.shtml </code>",
+          "weight": 64
+        },
+        {
+          "term": "特朗普在五角大楼纪念“9·11”事件25周年",
+          "url": "<code> mzlzb.www.qzznjyi.cn/17245db.shtml </code>",
+          "weight": 100
+        },
+        {
+          "term": "中东局势持续紧张 有报道称“华盛顿号”航母处于高度戒备状态",
+          "url": "<code> gi.www.hokvpze.cn/43371db.shtml </code>",
+          "weight": 2
+        },
+        {
+          "term": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+          "url": "<code> rw.www.yxeixjg.cn/93551db.shtml </code>",
+          "weight": 95
+        },
+        {
+          "term": "麦芽糊精商品报价动态（2026-09-13）",
+          "url": "<code> kczc.www.rodqqas.cn/55005db.shtml </code>",
+          "weight": 65
+        },
+        {
+          "term": "十件侨选“广州礼物”亮相广州中秋侨宴",
+          "url": "<code> enmky.www.vqsbdjt.cn/10008db.shtml </code>",
+          "weight": 26
+        },
+        {
+          "term": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+          "url": "<code> ggo.www.qcebcjf.cn/19344db.shtml </code>",
+          "weight": 100
+        },
+        {
+          "term": "天地一体跨域智算网工程启动",
+          "url": "<code> vsiqn.www.fiqnnce.cn/88734db.shtml </code>",
+          "weight": 42
+        },
+        {
+          "term": "习言道｜中印两国是合作伙伴而不是对手，互为发展机遇而不是威胁",
+          "url": "<code> cgrr.www.wxqbcpn.cn/52902db.shtml </code>",
+          "weight": 5
+        },
+        {
+          "term": "小米澎程系列正式开启全国交付 首站落地徐州",
+          "url": "<code> wl.www.etalmjv.cn/51383db.shtml </code>",
+          "weight": 29
+        },
+        {
+          "term": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下 OpenAI和Anthropic不敢停 “AI对齐”之父：超级智能可能在2027年出现 当下是监管黄金窗口",
+          "url": "<code> keh.www.ltjtocy.cn/66739db.shtml </code>",
+          "weight": 94
+        },
+        {
+          "term": "周六你需要知道的隔夜全球要闻：交易员预计下周美联储加息概率约为90%；伊朗称14日将在阿曼讨论霍尔木兹海峡商运航线；国际原油下跌",
+          "url": "<code> gotr.www.nmxwifh.cn/38717db.shtml </code>",
+          "weight": 70
+        },
+        {
+          "term": "海外华商参与服贸会：拓新兴市场 促互联互通",
+          "url": "<code> yt.www.lnkvkwf.cn/53475db.shtml </code>",
+          "weight": 16
+        },
+        {
+          "term": "海南万宁启动防汛防风Ⅰ级应急响应 全市实行“五停一关”",
+          "url": "<code> xvbg.www.ymyeizu.cn/28011db.shtml </code>",
+          "weight": 76
+        },
+        {
+          "term": "视频|银河通用报案 邵兰天回应：与我无关",
+          "url": "<code> napq.www.qzwxliq.cn/88743db.shtml </code>",
+          "weight": 23
+        },
+        {
+          "term": "全国首单水利设施发电不动产投资信托基金获批",
+          "url": "<code> uhrj.www.koqtryh.cn/15963db.shtml </code>",
+          "weight": 35
+        },
+        {
+          "term": "预期“高中签率”新股，来了",
+          "url": "<code> ujzl.www.yahddkt.cn/51368db.shtml </code>",
+          "weight": 91
+        },
+        {
+          "term": "普京：欧洲在乌克兰部署军队意味着“与俄罗斯开战”",
+          "url": "<code> zei.www.qzsjmoq.cn/00062db.shtml </code>",
+          "weight": 83
+        },
+        {
+          "term": "香港三大发钞行估值升至五年高位 年内涨幅均超30%",
+          "url": "<code> qbcad.www.dp3pok.com.cn/24235db.shtml </code>",
+          "weight": 10
+        },
+        {
+          "term": "申万宏源策略：坦然面对暂无突破方向，9月议息后或迎小级别反弹窗口",
+          "url": "<code> bbyjc.www.hh3pok.com.cn/61115db.shtml </code>",
+          "weight": 76
+        },
+        {
+          "term": "儒竞科技：每10股派0.5元，股权登记日为9月17日",
+          "url": "<code> xjyuk.www.dp3pok.org.cn/87347db.shtml </code>",
+          "weight": 36
+        },
+        {
+          "term": "此行间·习近平：金砖国家要勇做这4方面的“先锋力量”",
+          "url": "<code> xbcvl.www.hh3pok.org.cn/57399db.shtml </code>",
+          "weight": 94
+        },
+        {
+          "term": "汉港控股获主席及主要股东汪林冰增持768.4万股",
+          "url": "<code> afuqq.www.ngflykt.cn/72467db.shtml </code>",
+          "weight": 80
+        },
+        {
+          "term": "习近平会见印度总理莫迪",
+          "url": "<code> dnuej.www.zkhzvcd.cn/12147db.shtml </code>",
+          "weight": 30
+        },
+        {
+          "term": "女篮世界杯：法国队、美国队晋级决赛",
+          "url": "<code> pkzot.www.ksyrbpc.cn/69533db.shtml </code>",
+          "weight": 67
+        },
+        {
+          "term": "中国泾河博物馆落地泾源",
+          "url": "<code> ovot.www.cnsuehm.cn/13784db.shtml </code>",
+          "weight": 52
+        },
+        {
+          "term": "格力电器与中国核动力研究设计院达成战略合作",
+          "url": "<code> oj.www.hannytd.cn/40803db.shtml </code>",
+          "weight": 4
+        },
+        {
+          "term": "三一重工：9月11日公司首次回购股份62.39万股",
+          "url": "<code> wtqse.www.cxpqzuc.cn/40341db.shtml </code>",
+          "weight": 47
+        },
+        {
+          "term": "埃里森取消出售至多5000万股甲骨文股票的计划",
+          "url": "<code> xlk.www.fruwtwe.cn/16308db.shtml </code>",
+          "weight": 46
+        },
+        {
+          "term": "人这一辈子，一定要去一趟廊坊！",
+          "url": "<code> eq.www.zrhopzp.cn/83574db.shtml </code>",
+          "weight": 36
+        },
+        {
+          "term": "“桂BA”总决赛在桂林落幕",
+          "url": "<code> mx.www.heesueb.cn/32333db.shtml </code>",
+          "weight": 6
+        },
+        {
+          "term": "银川“中国之路 塞上湖城”主题自驾游活动启幕 游客深度畅游塞上风光",
+          "url": "<code> dg.www.talqeig.cn/09433db.shtml </code>",
+          "weight": 80
+        },
+        {
+          "term": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在 不会为保成功降低火箭性能",
+          "url": "<code> xfx.www.pinganwf.com/62378db.shtml </code>",
+          "weight": 11
+        },
+        {
+          "term": "南庚戌：中企赴博茨瓦纳投资要做好长期发展的准备",
+          "url": "<code> mmmpf.www.royamall.com/68682db.shtml </code>",
+          "weight": 83
+        },
+        {
+          "term": "一首90年前的老歌，为何让我们热泪盈眶？",
+          "url": "<code> muzsf.www.zgmymhw.com/98169db.shtml </code>",
+          "weight": 12
+        },
+        {
+          "term": "600929，重大资产重组，股票提前涨停！万亿级行业新利好，高增长潜力股浮出水面",
+          "url": "<code> csjo.www.gjggcw.com/49285db.shtml </code>",
+          "weight": 55
+        },
+        {
+          "term": "9月12日外盘头条：沙特关闭东西向原油管道 美联储下周加息几成定局 对冲基金已大幅削减日元空头仓位",
+          "url": "<code> zlg.www.zcrxspjx.com/88454db.shtml </code>",
+          "weight": 85
+        },
+        {
+          "term": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+          "url": "<code> wvxa.www.huazongjg.com/43566db.shtml </code>",
+          "weight": 97
+        },
+        {
+          "term": "信息披露新规实施两周 私募基金体感如何",
+          "url": "<code> co.www.hxl1688.com/03309db.shtml </code>",
+          "weight": 47
+        },
+        {
+          "term": "苹果表示 自太平洋时间9月12日早上5点起 客户可以在苹果官网和苹果商店应用上预订iPhone 18 Pro和iPhone 18 Pro Max",
+          "url": "<code> byhcl.www.wzcps.com/03022db.shtml </code>",
+          "weight": 53
+        },
+        {
+          "term": "六氯乙烷商品报价动态（2026-09-12）",
+          "url": "<code> gbmp.www.lszapyr9.com/51282db.shtml </code>",
+          "weight": 18
+        },
+        {
+          "term": "中国建筑国际遭执行董事孔祥兆减持9万股 每股作价8.54港元",
+          "url": "<code> usbl.www.jxshjsj.com/48689db.shtml </code>",
+          "weight": 91
+        },
+        {
+          "term": "2026中国—东盟（南宁）城市媒体圆桌会举办",
+          "url": "<code> vauwi.www.bwdnw.com/26179db.shtml </code>",
+          "weight": 85
+        },
+        {
+          "term": "胡塞武装称曼德海峡通航基本正常",
+          "url": "<code> of.www.tlskt.com/21507db.shtml </code>",
+          "weight": 36
+        },
+        {
+          "term": "国家算力互联互通区域（河北）节点今天正式启用",
+          "url": "<code> wl.www.jiayoude.com/53146db.shtml </code>",
+          "weight": 95
+        },
+        {
+          "term": "宁德时代启动A股史上最大回购",
+          "url": "<code> pxrb.www.pysybx.com/28124db.shtml </code>",
+          "weight": 33
+        },
+        {
+          "term": "中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+          "url": "<code> sr.www.51qingke.com/57791db.shtml </code>",
+          "weight": 74
+        },
+        {
+          "term": "美德防长将会晤 聚焦美国在欧洲军事部署",
+          "url": "<code> uruzx.www.ijuuu.cn/20064db.shtml </code>",
+          "weight": 1
+        },
+        {
+          "term": "南非向博茨瓦纳捐赠20头黑犀牛 助力种群拓展栖息地",
+          "url": "<code> obet.www.nkxo6g.cn/90194db.shtml </code>",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "title": "工具与命令",
+      "slug": "tools",
+      "terms": [
+        {
+          "term": "算力服务加速涌现 成为今年服贸会亮点",
+          "url": "<code> xgxdf.www.xuanhangxing.cn/30688db.shtml </code>",
+          "weight": 6
+        },
+        {
+          "term": "中东局势，突传大消息",
+          "url": "<code> ebxcj.www.zhongligongcheng.cn/41919db.shtml </code>",
+          "weight": 2
+        },
+        {
+          "term": "欧洲央行高级官员：高油价可能迫使央行进一步加息",
+          "url": "<code> li.www.uvjbs.cn/96896db.shtml </code>",
+          "weight": 99
+        },
+        {
+          "term": "翱捷科技冲刺港股：上半年营收24.5亿 阿里减持 一年时间套现超17亿",
+          "url": "<code> wg.www.icjydfq.cn/70184db.shtml </code>",
+          "weight": 98
+        },
+        {
+          "term": "2026中国网球菁英团体邀请赛北京站圆满落幕",
+          "url": "<code> iu.www.sualfcz.cn/75387db.shtml </code>",
+          "weight": 91
+        },
+        {
+          "term": "算力词元贷加速全国推广",
+          "url": "<code> zw.www.zxzlncy.cn/25870db.shtml </code>",
+          "weight": 48
+        },
+        {
+          "term": "甲骨文将额外投入7亿美元用于重组计划",
+          "url": "<code> wcbf.www.iwrhvwf.cn/32655db.shtml </code>",
+          "weight": 43
+        },
+        {
+          "term": "滴滴企业版已累计服务超100万家企业，发布跨企业AI工具",
+          "url": "<code> ht.www.uqhpxna.cn/22967db.shtml </code>",
+          "weight": 45
+        },
+        {
+          "term": "铜价新高之后：下一个“白银时刻”会来吗？",
+          "url": "<code> pkujb.www.drrngpg.cn/79544db.shtml </code>",
+          "weight": 31
+        },
+        {
+          "term": "尚品宅配：拟出售不超2%已回购股份",
+          "url": "<code> rckq.www.vkfmcgi.cn/31077db.shtml </code>",
+          "weight": 32
+        },
+        {
+          "term": "里昂：江南布衣维持“跑赢大市”评级 目标价25港元",
+          "url": "<code> ng.www.okmcuou.cn/80585db.shtml </code>",
+          "weight": 45
+        },
+        {
+          "term": "宁夏：青少年乐享科普嘉年华",
+          "url": "<code> rrbg.www.chmpozp.cn/95018db.shtml </code>",
+          "weight": 90
+        },
+        {
+          "term": "伊朗说美侵略持续影响海峡航运安全",
+          "url": "<code> jb.www.zzxpuyl.cn/32775db.shtml </code>",
+          "weight": 64
+        },
+        {
+          "term": "化工行业上市公司竞速“第二曲线”",
+          "url": "<code> inoix.www.fblsckp.cn/84943db.shtml </code>",
+          "weight": 16
+        },
+        {
+          "term": "英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判",
+          "url": "<code> jidpz.www.rygyyju.cn/35592db.shtml </code>",
+          "weight": 94
+        },
+        {
+          "term": "河南洛阳：塑编企业赶制海内外订单生产忙",
+          "url": "<code> yz.www.lzthnev.cn/21798db.shtml </code>",
+          "weight": 96
+        },
+        {
+          "term": "雕白粉商品报价动态（2026-09-12）",
+          "url": "<code> gt.www.znqkfzc.cn/73677db.shtml </code>",
+          "weight": 3
+        },
+        {
+          "term": "视频|星宇股份又双叒叕出错 三名副总“一年长两岁”：数据一旦注水，信任就会缩水",
+          "url": "<code> jegf.www.xrnctcp.cn/10739db.shtml </code>",
+          "weight": 28
+        },
+        {
+          "term": "菲华中学生交流日在马尼拉举行 近60名学子体验中华文化",
+          "url": "<code> pwpm.www.cbcinaf.cn/18889db.shtml </code>",
+          "weight": 76
+        },
+        {
+          "term": "QDII产品溢价频现 基金公司密集提示风险",
+          "url": "<code> buv.www.ltsdzjw.cn/88087db.shtml </code>",
+          "weight": 4
+        },
+        {
+          "term": "“圈养雪豹博流量” ？ 救护中心用科普回应谣言",
+          "url": "<code> lrjxe.www.nwasxwk.cn/96814db.shtml </code>",
+          "weight": 14
+        },
+        {
+          "term": "布局传奇IP源头，恺英网络拟间接参股娱美德打通版权端协同",
+          "url": "<code> iqdgv.www.rktxqkk.cn/99205db.shtml </code>",
+          "weight": 87
+        },
+        {
+          "term": "光通信产业现状：1.6T光模块加速上量 全产业链企业“跑步入场”",
+          "url": "<code> lvapr.www.wobyzgs.cn/36702db.shtml </code>",
+          "weight": 49
+        },
+        {
+          "term": "“光”的背后 新凯来万里眼们正在改写产业链",
+          "url": "<code> vvpga.www.dvdwugs.cn/79222db.shtml </code>",
+          "weight": 98
+        },
+        {
+          "term": "科学健身融入大众传播：全民增肌操亮相《披荆斩棘2026》",
+          "url": "<code> ieqmv.www.fmidipf.cn/74572db.shtml </code>",
+          "weight": 54
+        },
+        {
+          "term": "政企携手，互惠共赢 北京市昌平区政府与中国太保产险达成战略合作",
+          "url": "<code> jhys.www.snkkrgx.cn/51812db.shtml </code>",
+          "weight": 5
+        },
+        {
+          "term": "京雄快线开启全线贯通试运行",
+          "url": "<code> mfc.www.htoeowo.cn/90320db.shtml </code>",
+          "weight": 19
+        },
+        {
+          "term": "“1+N+X”！私募业，监管规则密集落地！深度解读来了",
+          "url": "<code> isj.www.wchbtms.cn/88699db.shtml </code>",
+          "weight": 12
+        },
+        {
+          "term": "中国银行启动“一网三融”算力金融生态共建行动",
+          "url": "<code> nfn.www.esttefu.cn/50599db.shtml </code>",
+          "weight": 30
+        },
+        {
+          "term": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
+          "url": "<code> yjt.www.qfzmacl.cn/14609db.shtml </code>",
+          "weight": 79
+        },
+        {
+          "term": "前8个月京津冀外贸总值创新高 出口值破万亿元大关",
+          "url": "<code> rn.www.bucjjkw.cn/58682db.shtml </code>",
+          "weight": 64
+        },
+        {
+          "term": "花旗：大族数控维持“买入”评级 目标价189港元",
+          "url": "<code> kcdk.www.lbxqrgw.cn/03579db.shtml </code>",
+          "weight": 83
+        },
+        {
+          "term": "以“信”为主题的两岸少儿美术作品在台北展出",
+          "url": "<code> epkj.www.dp2pok.com.cn/53188db.shtml </code>",
+          "weight": 13
+        },
+        {
+          "term": "创新推出机器人太极展演 2026年全民太极大会启幕",
+          "url": "<code> luvt.www.hh2pok.com.cn/42134db.shtml </code>",
+          "weight": 37
+        },
+        {
+          "term": "户外运动为何持续吸引年轻人？热潮更需冷思考",
+          "url": "<code> agav.www.dp2pok.org.cn/85388db.shtml </code>",
+          "weight": 26
+        },
+        {
+          "term": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+          "url": "<code> ut.www.hh2pok.org.cn/18481db.shtml </code>",
+          "weight": 56
+        },
+        {
+          "term": "金安国纪：未与英伟达、华为有过接触",
+          "url": "<code> uvyvo.www.szgzcnx.cn/59377db.shtml </code>",
+          "weight": 23
+        },
+        {
+          "term": "三菱日联预计美联储本月加息25基点 10月将按兵不动",
+          "url": "<code> nrg.www.ynoxipg.cn/05019db.shtml </code>",
+          "weight": 43
+        },
+        {
+          "term": "【深度】百万粉丝博主涉黑被抓，打假还是假打？",
+          "url": "<code> olf.www.tkuwaon.cn/97969db.shtml </code>",
+          "weight": 99
+        },
+        {
+          "term": "索要数百克黄金！打假网红“铁头”被判8年，宣判现场有人叫嚣“不服”，曾对商户放言“你是我的金山银山”",
+          "url": "<code> uwe.www.skjvdob.cn/02822db.shtml </code>",
+          "weight": 32
+        },
+        {
+          "term": "连续四年财务造假、一日收两份“预罚单”，*ST卓然或遭强制退市",
+          "url": "<code> xh.www.khlyusu.cn/19574db.shtml </code>",
+          "weight": 99
+        },
+        {
+          "term": "润禾材料：披露向不特定对象发行可转债中签结果",
+          "url": "<code> zy.www.uzmwwrn.cn/99757db.shtml </code>",
+          "weight": 35
+        },
+        {
+          "term": "汉桑科技：员工战略配售资管计划拟减持不超1.23%股份",
+          "url": "<code> fhda.www.vvxnazb.cn/18249db.shtml </code>",
+          "weight": 54
+        },
+        {
+          "term": "事关太空算力，四地倡议共建产业长廊",
+          "url": "<code> uzs.www.ljynygz.cn/14440db.shtml </code>",
+          "weight": 5
+        },
+        {
+          "term": "话剧《老醯儿》太原首演 演绎醋香里的百年晋商",
+          "url": "<code> ysep.www.tntgvio.cn/18552db.shtml </code>",
+          "weight": 71
+        },
+        {
+          "term": "印度监管机构针对尾盘竞价波动提出改革方案",
+          "url": "<code> vwhva.www.miglobalsourcing.com/14615db.shtml </code>",
+          "weight": 56
+        },
+        {
+          "term": "南海热带低压在越南广治省沿海登陆",
+          "url": "<code> tuzyz.www.odresi.com/39424db.shtml </code>",
+          "weight": 30
+        },
+        {
+          "term": "东西问丨“大金砖”力量，力从何来，力道几何？",
+          "url": "<code> sin.www.meetchoose.com/34353db.shtml </code>",
+          "weight": 25
+        },
+        {
+          "term": "NBA球星斯蒂芬·库里到访广东东莞助阵粤BA全明星赛",
+          "url": "<code> qmdwh.www.guangyindegushi.com/45200db.shtml </code>",
+          "weight": 26
+        },
+        {
+          "term": "美国第二季度家庭净资产创纪录环比增加12.803万亿美元",
+          "url": "<code> vxvn.www.hbqsxs.com/04956db.shtml </code>",
+          "weight": 77
+        }
+      ]
+    },
+    {
+      "title": "参考手册",
+      "slug": "reference",
+      "terms": [
+        {
+          "term": "（走进中国乡村）湖南新化千年梯田“上新”激活乡村经济",
+          "url": "<code> zya.www.blyqcj.com/17263db.shtml </code>",
+          "weight": 88
+        },
+        {
+          "term": "印尼客轮倾覆已致6人遇难 130人失踪",
+          "url": "<code> tzln.www.tzxgzycc.com/00038db.shtml </code>",
+          "weight": 95
+        },
+        {
+          "term": "“未给英伟达供货！”“5天3板”PCB牛股紧急澄清，还有一只4倍牛股也公告否认",
+          "url": "<code> huu.www.e3049.com/80585db.shtml </code>",
+          "weight": 57
+        },
+        {
+          "term": "“铁建起重5000”大型起重船离港赴远洋施工",
+          "url": "<code> xg.www.dsds31.com/84920db.shtml </code>",
+          "weight": 13
+        },
+        {
+          "term": "杂技剧《美好生活》在北京上演",
+          "url": "<code> ft.www.plsjsj.com/91436db.shtml </code>",
+          "weight": 83
+        },
+        {
+          "term": "如何看待9月银行股逆市新高？",
+          "url": "<code> new.www.cyyyp.com/67673db.shtml </code>",
+          "weight": 50
+        },
+        {
+          "term": "瞄准中秋、国庆黄金档期多地发放消费券",
+          "url": "<code> wyix.www.052311.com/19567db.shtml </code>",
+          "weight": 31
+        },
+        {
+          "term": "霍尔木兹海峡，大消息",
+          "url": "<code> xx.www.echexing.com/88007db.shtml </code>",
+          "weight": 59
+        },
+        {
+          "term": "美国农业部表示 9月美国2026/2027年度大豆产量预期为45.35亿蒲式耳",
+          "url": "<code> wupi.www.dddd4.cn/93065db.shtml </code>",
+          "weight": 98
+        },
+        {
+          "term": "“红通人员”、外逃职务犯罪嫌疑人曾能贵被引渡回中国",
+          "url": "<code> fd.www.tzgpxc.cn/15712db.shtml </code>",
+          "weight": 95
+        },
+        {
+          "term": "富瑞：给予阿里巴巴-W、腾讯控股及MINIMAX-W“买入”评级",
+          "url": "<code> udbin.www.xiaopinhenan.cn/09231db.shtml </code>",
+          "weight": 38
+        },
+        {
+          "term": "东西问丨学者对谈：中拉如何共同编织科技与人权合作图景？",
+          "url": "<code> dtgc.www.cdcaixingkj.cn/33271db.shtml </code>",
+          "weight": 44
+        },
+        {
+          "term": "AI“看舌识体质” 安徽亳州校园食堂开启“养生模式”",
+          "url": "<code> ovy.www.jyrpjkn.cn/93295db.shtml </code>",
+          "weight": 76
+        },
+        {
+          "term": "南航将正式复航广州-新德里直飞航线",
+          "url": "<code> iltes.www.khpgxlr.cn/50100db.shtml </code>",
+          "weight": 47
+        },
+        {
+          "term": "15.83亿元！全国首单 获批",
+          "url": "<code> wq.www.ruqgtdz.cn/88482db.shtml </code>",
+          "weight": 27
+        },
+        {
+          "term": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+          "url": "<code> lbi.www.bekfhrd.cn/51715db.shtml </code>",
+          "weight": 21
+        },
+        {
+          "term": "2026年福建省闽台青年电影人才培养“融合计划”发布",
+          "url": "<code> vmb.www.kkalkpv.cn/32223db.shtml </code>",
+          "weight": 86
+        },
+        {
+          "term": "斯诺克英格兰公开赛：丁俊晖止步四强",
+          "url": "<code> dbm.www.pcrkoob.cn/27718db.shtml </code>",
+          "weight": 17
+        },
+        {
+          "term": "1-羟基-2-萘甲酸商品报价动态（2026-09-12）",
+          "url": "<code> emdr.www.goujsgf.cn/86306db.shtml </code>",
+          "weight": 50
+        },
+        {
+          "term": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
+          "url": "<code> bgvf.www.ircnpck.cn/45501db.shtml </code>",
+          "weight": 57
+        },
+        {
+          "term": "红利股跑出超预期行情 布局高股息需规避三重误区",
+          "url": "<code> mvm.www.xdxgpqp.cn/19326db.shtml </code>",
+          "weight": 90
+        },
+        {
+          "term": "智谱：以零息+溢价转股形式融资50亿美元 释放长期股权预期",
+          "url": "<code> tuwri.www.vnesiop.cn/20732db.shtml </code>",
+          "weight": 58
+        },
+        {
+          "term": "周末利好来了！事关万亿赛道！我国词元需求呈现爆发式增长",
+          "url": "<code> rx.www.hrxioyd.cn/09045db.shtml </code>",
+          "weight": 12
+        },
+        {
+          "term": "预订量暴增1000%！“宝藏小城”藏不住了",
+          "url": "<code> jdxuu.www.jejjtux.cn/82835db.shtml </code>",
+          "weight": 88
+        },
+        {
+          "term": "多图读懂金砖力量：中国智慧助推开放包容的合作新机遇",
+          "url": "<code> zhfot.www.hjrwxsd.cn/88614db.shtml </code>",
+          "weight": 81
+        },
+        {
+          "term": "智谱约50亿美元融资落定 加码下一代GLM基础模型、完全自训练及算力基建",
+          "url": "<code> nr.www.mzosjhg.cn/41837db.shtml </code>",
+          "weight": 56
+        },
+        {
+          "term": "中国高端海工装备扬帆出海 服务共建“一带一路”国家能源开发",
+          "url": "<code> mz.www.jdqpxaf.cn/01220db.shtml </code>",
+          "weight": 56
+        },
+        {
+          "term": "180亿美元涌入！世界黄金协会最新报告",
+          "url": "<code> zxqb.www.rtelnwq.cn/49317db.shtml </code>",
+          "weight": 5
+        },
+        {
+          "term": "福建连江：“海洋牧场”五彩斑斓 场面壮观",
+          "url": "<code> xclof.www.rzkbwzi.cn/15309db.shtml </code>",
+          "weight": 38
+        },
+        {
+          "term": "近一个月逾千家上市公司获机构调研",
+          "url": "<code> aeqj.www.kzmxxur.cn/40129db.shtml </code>",
+          "weight": 55
+        },
+        {
+          "term": "乌克兰外长称 俄罗斯无人机袭击了乌克兰-波兰边境的一处过境点",
+          "url": "<code> brop.www.atrssxq.cn/34390db.shtml </code>",
+          "weight": 64
+        },
+        {
+          "term": "四川绵阳：以基层治理推动铸牢中华民族共同体意识走深走实",
+          "url": "<code> tsp.www.lsaglcf.cn/95105db.shtml </code>",
+          "weight": 87
+        },
+        {
+          "term": "“我们的节日·共话团圆”港澳台侨同胞联谊活动在宁夏银川举办",
+          "url": "<code> hcoyv.www.vqiofpn.cn/73652db.shtml </code>",
+          "weight": 97
+        },
+        {
+          "term": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉涉嫌严重违纪违法接受审查调查",
+          "url": "<code> ivd.www.arftphe.cn/74294db.shtml </code>",
+          "weight": 52
+        },
+        {
+          "term": "9月12日热门中概股多数上涨，台积电涨1.22%，慧荣科技涨7.25%",
+          "url": "<code> hqb.www.asjpkrn.cn/98461db.shtml </code>",
+          "weight": 51
+        },
+        {
+          "term": "联大通过“纠正地图”决议，意味着什么？",
+          "url": "<code> mpo.www.mjnfgmi.cn/36065db.shtml </code>",
+          "weight": 25
+        },
+        {
+          "term": "（长征胜利90周年）红军长征粤北纪念馆焕新迎客 红色热土吸引港澳台侨参观者",
+          "url": "<code> fy.www.bvtuhau.cn/14270db.shtml </code>",
+          "weight": 68
+        },
+        {
+          "term": "摩根大通在遭受损失后暂停Situation Awareness相关贷款业务",
+          "url": "<code> auxg.www.pumaycp.cn/41822db.shtml </code>",
+          "weight": 100
+        },
+        {
+          "term": "远望谷半年两换赛道，拟收购的光通信设备公司发明专利仅2个",
+          "url": "<code> hpj.www.nmoufey.cn/76830db.shtml </code>",
+          "weight": 67
+        },
+        {
+          "term": "小七龄童在故乡浙江绍兴离世 享年84岁",
+          "url": "<code> xh.www.ofdebuz.cn/27359db.shtml </code>",
+          "weight": 2
+        },
+        {
+          "term": "2026全国全民体能大赛巡回赛上海杨浦站圆满落幕",
+          "url": "<code> zw.www.sxamnhp.cn/95455db.shtml </code>",
+          "weight": 3
+        },
+        {
+          "term": "聚焦智能科创新能源 台湾青年参访团在渝深入考察交流",
+          "url": "<code> ghhe.www.fmfksuf.cn/84274db.shtml </code>",
+          "weight": 71
+        },
+        {
+          "term": "美国政府本财年前11个月财政赤字达1.97万亿美元",
+          "url": "<code> ojp.www.dp1pok.com.cn/15195db.shtml </code>",
+          "weight": 71
+        },
+        {
+          "term": "600929“急打补丁”，重组标的公司董事被查",
+          "url": "<code> zl.www.hh1pok.com.cn/72041db.shtml </code>",
+          "weight": 94
+        },
+        {
+          "term": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
+          "url": "<code> xg.www.dp1pok.org.cn/02847db.shtml </code>",
+          "weight": 5
+        },
+        {
+          "term": "2026年粤港澳大湾区攀岩公开赛（深圳）举行",
+          "url": "<code> zf.www.hh1pok.org.cn/88999db.shtml </code>",
+          "weight": 34
+        },
+        {
+          "term": "第一观察｜习近平主席倡导金砖国家共担时代责任",
+          "url": "<code> zc.www.bskrwas.cn/58944db.shtml </code>",
+          "weight": 33
+        },
+        {
+          "term": "2只PCB大牛股澄清供货英伟达传闻",
+          "url": "<code> ze.www.ckodaox.cn/68567db.shtml </code>",
+          "weight": 73
+        },
+        {
+          "term": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+          "url": "<code> twak.www.etkcrvr.cn/50984db.shtml </code>",
+          "weight": 57
+        },
+        {
+          "term": "沪市公司密集增持回购夯实A股内在稳定性基础",
+          "url": "<code> ytohz.www.twlezur.cn/34105db.shtml </code>",
+          "weight": 32
+        }
+      ]
+    },
+    {
+      "title": "常见案例",
+      "slug": "cases",
+      "terms": [
+        {
+          "term": "东西问丨风靡中国的印度飞饼，为何印度找不到",
+          "url": "<code> rt.www.tkydolg.cn/49141db.shtml </code>",
+          "weight": 87
+        },
+        {
+          "term": "武汉基域科技发布面向太空算力等场景的超高导热“超晶膜”材料",
+          "url": "<code> picn.www.zyjahnq.cn/00122db.shtml </code>",
+          "weight": 3
+        },
+        {
+          "term": "史上最大IPO，英伟达正在洽谈投资100亿美元",
+          "url": "<code> zgxca.www.asegnqp.cn/08584db.shtml </code>",
+          "weight": 8
+        },
+        {
+          "term": "广西合浦中秋国庆非遗系列活动启幕 168斤的大月饼免费吃",
+          "url": "<code> fdt.www.mvyykku.cn/37861db.shtml </code>",
+          "weight": 77
+        },
+        {
+          "term": "“北大—星网元智—工业软件研发智能体联合实验室”成立",
+          "url": "<code> rcc.www.gtlwgsz.cn/81083db.shtml </code>",
+          "weight": 17
+        },
+        {
+          "term": "韩国股市放大招！正式开启夜盘，交易延长至晚上8点",
+          "url": "<code> dly.www.libfcxv.cn/12855db.shtml </code>",
+          "weight": 62
+        },
+        {
+          "term": "四年虚增利润近3亿元！688121，或遭强制退市",
+          "url": "<code> mmale.www.haodootu.com/40991db.shtml </code>",
+          "weight": 28
+        },
+        {
+          "term": "广西南宁青秀山凤凰岭如意步道改建完成 新增城市登高观景点",
+          "url": "<code> br.www.zzpc110.com/33946db.shtml </code>",
+          "weight": 77
+        },
+        {
+          "term": "沙特称也门胡塞武装袭击造成2人受伤",
+          "url": "<code> eul.www.shwcdz.com/27395db.shtml </code>",
+          "weight": 51
+        },
+        {
+          "term": "智谱募资50亿美元：多家长线基金加持 用于下一代GLM研发",
+          "url": "<code> bh.www.zjghxzs.com/55627db.shtml </code>",
+          "weight": 6
+        },
+        {
+          "term": "聚四氢呋喃醚PTMEG商品报价动态（2026-09-13）",
+          "url": "<code> xcyd.www.ddmzf.com/85817db.shtml </code>",
+          "weight": 66
+        },
+        {
+          "term": "公募逆周期布局提速 机构称A股变盘点或已不远",
+          "url": "<code> lszg.www.lygpengwei.com/85949db.shtml </code>",
+          "weight": 86
+        },
+        {
+          "term": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
+          "url": "<code> imp.www.2ndsenseaudio.cn/87755db.shtml </code>",
+          "weight": 34
+        },
+        {
+          "term": "肇庆搭建“认知健康防护网” 为老年认知障碍防治提供数字化支撑",
+          "url": "<code> ncz.www.sdnpx120.com/65163db.shtml </code>",
+          "weight": 15
+        },
+        {
+          "term": "暴跌超30%，GPU龙头，获资金逆势抄底！",
+          "url": "<code> jxkhd.www.ytcaogen.com/48477db.shtml </code>",
+          "weight": 27
+        },
+        {
+          "term": "北京丰台发布文化产业新政 聚焦数字出版创新等六大方向",
+          "url": "<code> ur.www.88882211.com/74881db.shtml </code>",
+          "weight": 62
+        },
+        {
+          "term": "中吉乌专家在“丝路重镇”兰州探AI赋能中亚教育",
+          "url": "<code> maibx.www.zhixiaolaoying.com/52605db.shtml </code>",
+          "weight": 35
+        },
+        {
+          "term": "擅自泄露病历病情要承担什么责任？患者维权记住这几步",
+          "url": "<code> qi.www.fspsm.com/44669db.shtml </code>",
+          "weight": 95
+        },
+        {
+          "term": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+          "url": "<code> gquw.www.hshsbuy.cn/21490db.shtml </code>",
+          "weight": 67
+        },
+        {
+          "term": "受热带低压环流影响 广西部分海上航线及旅游项目暂停",
+          "url": "<code> cyi.www.c-lean.cn/61005db.shtml </code>",
+          "weight": 89
+        },
+        {
+          "term": "食用小苏打商品报价动态（2026-09-13）",
+          "url": "<code> wpehs.www.hyj666.cn/00810db.shtml </code>",
+          "weight": 37
+        },
+        {
+          "term": "Anthropic联合创始人兼首席执行官：必须放慢提升AI模型能力的速度",
+          "url": "<code> wdsr.www.hbsuliaomoju.cn/16009db.shtml </code>",
+          "weight": 21
+        },
+        {
+          "term": "比亚迪利润奖停发传闻发酵，员工称多项福利此前已收紧",
+          "url": "<code> dzjcn.shangcaihe.cn </code>",
+          "weight": 11
+        },
+        {
+          "term": "全球知名铁人三项赛首次落地大理：中美选手分获男女冠军",
+          "url": "<code> dziwoi.dabaicha.cn </code>",
+          "weight": 69
+        },
+        {
+          "term": "证监会查处*ST卓然严重财务造假案件",
+          "url": "<code> dzqo.ruirenzi.cn </code>",
+          "weight": 14
+        },
+        {
+          "term": "核聚变路线之争胜负未定，上海为何全线押注",
+          "url": "<code> dzjyyl.aidaiban.cn </code>",
+          "weight": 80
+        },
+        {
+          "term": "2026体育文化全国行走进贵州遵义 郭伟阳与师生面对面",
+          "url": "<code> dzfv.chudaoren.cn </code>",
+          "weight": 81
+        },
+        {
+          "term": "“央行超级周”来袭，A股怎么走",
+          "url": "<code> dzknhj.kangxiaozhu.cn </code>",
+          "weight": 75
+        },
+        {
+          "term": "国际航标业者走进温州朔门古港 感触海丝文化",
+          "url": "<code> dzpbhb.7ci4d26.cn </code>",
+          "weight": 77
+        },
+        {
+          "term": "2026年达喀尔青奥会圣火抵达塞内加尔",
+          "url": "<code> dzck.exknwve.cn </code>",
+          "weight": 98
+        },
+        {
+          "term": "“疆煤入冀”哈密煤炭万吨首发专列运抵唐山港",
+          "url": "<code> dzdvy.lemlcal.cn </code>",
+          "weight": 88
+        },
+        {
+          "term": "南海热带低压趋向越南中部沿海 海南有较强风雨天气",
+          "url": "<code> dzedvn.zqheka0.cn </code>",
+          "weight": 30
+        },
+        {
+          "term": "巴西央行将于9月15日进行最高10亿美元的即期美元拍卖",
+          "url": "<code> dzrzr.ytouix0.cn </code>",
+          "weight": 72
+        },
+        {
+          "term": "伊朗南部格什姆岛方向传出爆炸声",
+          "url": "<code> dzgjt.aaonub7.cn </code>",
+          "weight": 15
+        },
+        {
+          "term": "中新社记者直击金砖峰会媒体中心 1200多名记者汇聚 “大金砖”热度有多高？",
+          "url": "<code> dznsks.fanxibo.cn </code>",
+          "weight": 89
+        },
+        {
+          "term": "金安国纪：网上传播关于公司产品纳入英伟达、华为供应链体系认证等相关信息均为不实信息",
+          "url": "<code> dzdsyl.adyhx79.cn </code>",
+          "weight": 76
+        },
+        {
+          "term": "水利部针对海南启动洪水防御Ⅳ级应急响应",
+          "url": "<code> dzlbue.zrtny73.cn </code>",
+          "weight": 41
+        },
+        {
+          "term": "创维数字：智能终端业务增长有三方面支撑 公司对全年业绩保持积极预期",
+          "url": "<code> dzxbv.ru2cpvn.cn </code>",
+          "weight": 47
+        },
+        {
+          "term": "从“打卡游”到“生活圈”，免签带旺中俄跨境消费",
+          "url": "<code> dzet.7ibl0oy.cn </code>",
+          "weight": 41
+        },
+        {
+          "term": "凯莱英获南方基金增持2.5万股 每股作价约140.25港元",
+          "url": "<code> dzaqyf.buxnw65.cn </code>",
+          "weight": 27
+        },
+        {
+          "term": "美军中央司令部：过去60天已引导100艘船只改变航线",
+          "url": "<code> dzymqw.bmzfu99.cn </code>",
+          "weight": 56
+        },
+        {
+          "term": "北森控股于9月11日斥资149.95万港元回购50万股",
+          "url": "<code> dzlmc.fjyln16.cn </code>",
+          "weight": 40
+        },
+        {
+          "term": "美国8月份政府预算赤字为1668亿美元",
+          "url": "<code> dzzeql.jcjima.cn </code>",
+          "weight": 41
+        },
+        {
+          "term": "中国信通院总工程师何宝宏：构建差异化算力布局体系 推动算力建设由规模扩张转向质效提升",
+          "url": "<code> dzcgdn.xrmpzm.cn </code>",
+          "weight": 36
+        },
+        {
+          "term": "高盛继续认为其对2026年底金价4900美元/盎司的预测存在净上行风险 但也预计在此过程中将出现更大的双向波动",
+          "url": "<code> dzbfyh.xbvdzk.cn </code>",
+          "weight": 89
+        },
+        {
+          "term": "西藏印社在拉萨成立",
+          "url": "<code> dzvuds.rzheb73.cn </code>",
+          "weight": 67
+        },
+        {
+          "term": "四川“两弹城”架起连心桥：红色旅游促各民族交往交流交融",
+          "url": "<code> dzuwwp.21sbkuq.cn </code>",
+          "weight": 71
+        },
+        {
+          "term": "提高资本市场制度包容性 吸引优质企业扎根A股",
+          "url": "<code> dzvfw.y87oyh1.cn </code>",
+          "weight": 31
+        },
+        {
+          "term": "2026年服贸会达成各类成果1200余项",
+          "url": "<code> dzsrrg.ytjly30.cn </code>",
+          "weight": 68
+        },
+        {
+          "term": "长城通用服务器中标国家电网数字化集采服务器项目",
+          "url": "<code> dzndhr.oohoiov.cn </code>",
+          "weight": 24
+        }
+      ]
+    }
+  ]
+}
